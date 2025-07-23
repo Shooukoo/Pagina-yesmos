@@ -1,0 +1,7222 @@
+[
+    {
+        "Nombre": "ALCOHOL ISOPROPILICO",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "BAT  G530 / G532 / J3 2015 / J5 2015 / J2 CORE",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 14,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A01 CORE/BA013ABY",
+        "Proveedor": null,
+        "Precio Compra": 55,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A02S/A03S/HQ50S/A03",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A05/A05S/WT-E-N28",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A10/A750/A7 2018/BA750ABU",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A10S/A20S/SCUD WT N6",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 7,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A14 4G/A03/A04E",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A15 5G",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A15/A12/BLP817/BLP673",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A16/A32/A53/A54/BLP805",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A20/A30/A50/BA305ABN",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A21S/A02/A12/A13/BA217ABY",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A52/BG781ABY",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT A57/BLP619",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "Bat Droid Razr M EG30",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT E13/E32/G22/E32s/G13/G23/G53/E13 2023/NH50",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT E20/XT2155/NT40",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT E4+/E5+/HE50",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT E6 PLAY/E6S/KS40",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G STYLUS 5G/MD50",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G04/G34 5G/G24/QF50",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G100/LZ50",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G14/G54/PC50",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G4 Play/E4/MOTO G5/MOTO C/GK40",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G4+/G4/XT1625/GA40",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G5+/HG40",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G50 5G/MS50",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G6 PLAY/E5/BL270",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G8 PLAY/KG40",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G8 PLUS/KD40",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G8 POWER/KZ50",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT G9 POWER/MC50",
+        "Proveedor": null,
+        "Precio Compra": 105,
+        "Precio Venta": 390,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "Bat G950 / S8",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "Bat G955 / S8 Plus",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT HONOR  8A/8S/HB405979ECW",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT Honor X8A / Honor 90 Lite 5G / Honor X50I HB416594EGW",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 520,
+        "Existencia mínimo": null,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 11",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 590,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 11 PRO",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 11 PRO MAX",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 12 MINI",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 12 PRO MAX",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 12/12 PRO",
+        "Proveedor": null,
+        "Precio Compra": 100,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 13",
+        "Proveedor": null,
+        "Precio Compra": 115,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 13 PRO",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 530,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 13 PRO MAX",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 14",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 14 PRO",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 14 PRO MAX",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 660,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 6+",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 6G",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 6S",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 6S+",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 7+",
+        "Proveedor": null,
+        "Precio Compra": 105,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 7G",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 8+",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP 8G",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP SE 2020",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP X",
+        "Proveedor": null,
+        "Precio Compra": 125,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP XR",
+        "Proveedor": null,
+        "Precio Compra": 110,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP XS",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT IP XS MAX",
+        "Proveedor": null,
+        "Precio Compra": 110,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT J7/J7 NEO/JA/J7 COE",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT JE30/E5 PLAY GO 2000MAH",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT JG30 ORI/ MOTO G7 ORI",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT JG40/MOTO G7+",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT JK50 E7 PLUS/G8 POWER LITE/MOTO G10/G7 POWER/G9 PLAY G20/E7I POWER/ONEFUSION/G51",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT MI 11 LITE/BP42",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "Bat Moto E / EL40",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT MOTO G 5G/MK50",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT MT10 LITE/P30 LITE/P10 SELFIE HB356687ECW",
+        "Proveedor": null,
+        "Precio Compra": 55,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT MT20 LITE/NOVA3/P10+/NOVA 5T/NOVA8 HB386589ECW",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT ONE FUSION+/LG50",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT OPPO A17/BLP915",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT OPPO A31/BLP727",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT OPPO A72 4G/BLP781",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT OPPO A72 5G/BLP797",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT P9 LITE/P10 LITE/P20 LITE/Y6 2018/HB366481ECW",
+        "Proveedor": null,
+        "Precio Compra": 55,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT PSMART 2019/HB396286ECW",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT REDMI 9/BN54",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT REDMI 9A/9C/BN56",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT REDMI NOTE 8 PRO/BM4J",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT RENO 5 LITE/BLP835",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT RENO 7/RENO 7Z 5G/BLP907",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT S9+/G965",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT SAM A31/BA315ABY",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT SAM A51/BA515ABY",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT SAM S7 EDGE",
+        "Proveedor": null,
+        "Precio Compra": 280,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT V20 SMART/V20 ULTRA/V30 VITALi3949T44P8H906450",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT V9 VITA/V10 VITA/V9/A5 2020/A7 2019/A51/Li3931T44P8H806139",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT Y9 2019/GW METAL/Y7 2019/Y9 2018/MT9/Y7 PRIME/HB396689ECW",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT Y9 PRIME 2019/Y9S/HB446486ECW",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "BAT Y9A/HB476586ECW",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 340,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BATERIAS"
+    },
+    {
+        "Nombre": "C/C J7 PRIME/G610",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "C/C SAM A01",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "C/C SAM A21",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "C/C Y5 2018",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC A10S",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC A20",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC A21S",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC A31",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 50,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC A32 4G",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC G20 C/C ORI",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC G7 PLUS",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC G7 POWER",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC MOTO G6",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC OT4010",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC P20 LITE",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC P30 LITE",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC P9 Lite",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC P970",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC PSMART 2018",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC PSMART 2019",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC REDMI 8A",
+        "Proveedor": null,
+        "Precio Compra": 3,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC S8 / Samsung",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 50,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC Y6 2019",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CC Y9 2019",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "CENTRO DE CARGA"
+    },
+    {
+        "Nombre": "CINTA 16MM",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "CINTA 20MM",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "Des Kit P/ Iphone",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "DIS  NOTE 10 PRO (M2101K6G) INCELL/POCO X4 PRO 5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A01 CORE ORI S/M",
+        "Proveedor": null,
+        "Precio Compra": 105,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A01M ORI",
+        "Proveedor": null,
+        "Precio Compra": 130,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A02 / A125F / A12 ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A02S/A03/A03S/A04E ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A03 CORE ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A04 CORE/A04S/A13 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 540,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A04 ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A10E / A20E NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A10S  ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A10S ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A11 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A13 5G/A04S ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A13/A23 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A14 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A14 4G ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 235,
+        "Precio Venta": 570,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A20 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A20S ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A20S ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A21 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 580,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A21S ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A22 4G OLED C/M ORI SIZE",
+        "Proveedor": null,
+        "Precio Compra": 470,
+        "Precio Venta": 1040,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A22 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A22 5G ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 680,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A25 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 225,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A3 2020 ZTE NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A30 / A50 / A50S NEGRO INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 215,
+        "Precio Venta": 540,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A30/A50/A50S OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 500,
+        "Precio Venta": 1100,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A315 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A32 4G INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 235,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A32 4G OLED C/M ORI SIZE",
+        "Proveedor": null,
+        "Precio Compra": 550,
+        "Precio Venta": 1200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A32 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A33 5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 215,
+        "Precio Venta": 530,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A33/A335/A336 OLED C/M ORI SIZE",
+        "Proveedor": null,
+        "Precio Compra": 570,
+        "Precio Venta": 1300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A34 INCELL C/M ORI",
+        "Proveedor": null,
+        "Precio Compra": 310,
+        "Precio Venta": 720,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A51 FULL SIZE OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 455,
+        "Precio Venta": 1050,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A515 NEGRO INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A70 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 225,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A70 OLED C/M FULL",
+        "Proveedor": null,
+        "Precio Compra": 375,
+        "Precio Venta": 850,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A71 INCELL C/M",
+        "Proveedor": null,
+        "Precio Compra": 285,
+        "Precio Venta": 670,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A71 OLED C/M FULL",
+        "Proveedor": null,
+        "Precio Compra": 630,
+        "Precio Venta": 1400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A72 4G OLED C/M FULL",
+        "Proveedor": null,
+        "Precio Compra": 720,
+        "Precio Venta": 1540,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A72 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 270,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS A7S 2020 / ZTE V Smart / ZTE V20 Smart ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS AXON 40 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS AXON 60 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS E13 ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS E22 / E22I ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS E6 PLAY ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G PLAY 2021 ORI",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G POWER 2022 ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G STYLUS 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G10 PLAY/G POWER 2021 ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G22/E32/E32S/E22S ORI",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G23/G13 ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G5 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G50 (4G) NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G50 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G52/G82/G72/G71S 5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 590,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G7/G7 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G9 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS G9/G9 PLAY/E7 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 213,
+        "Precio Venta": 530,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR 10 LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Honor 10 Negro",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR 50 LITE/NOVA 8i NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 340,
+        "Precio Venta": 780,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Honor 7 Negro / Huawei",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR 7X NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Honor 9 Negro",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR 9X LITE NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 245,
+        "Precio Venta": 590,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X6 / X6 2020/X6S / HONOR 70 LITE / X8 5G",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X6A / X6A PLUS / X5 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X7 ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X7A ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X8 4G / HONOR 90 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X8A ORI",
+        "Proveedor": null,
+        "Precio Compra": 265,
+        "Precio Venta": 630,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS HONOR X9 ORI",
+        "Proveedor": null,
+        "Precio Compra": 245,
+        "Precio Venta": 590,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 INCELL KD",
+        "Proveedor": null,
+        "Precio Compra": 280,
+        "Precio Venta": 620,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 INCELL TK",
+        "Proveedor": null,
+        "Precio Compra": 199,
+        "Precio Venta": 630,
+        "Existencia mínimo": 0,
+        "Existencias": 10,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 PRO INCELL TIANMA",
+        "Proveedor": null,
+        "Precio Compra": 267,
+        "Precio Venta": 700,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 PRO MAX INCELL GX",
+        "Proveedor": null,
+        "Precio Compra": 350,
+        "Precio Venta": 820,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 PRO MAX INCELL TIANMA",
+        "Proveedor": null,
+        "Precio Compra": 245,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 12 / 12 PRO NEGRO  INCELL TIANMA",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 700,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 12 / 12 PRO OLED",
+        "Proveedor": null,
+        "Precio Compra": 487,
+        "Precio Venta": 1660,
+        "Existencia mínimo": null,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 12 MINI INCELL TIANMA",
+        "Proveedor": null,
+        "Precio Compra": 390,
+        "Precio Venta": 900,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 12 PRO MAX INCELL",
+        "Proveedor": null,
+        "Precio Compra": 376,
+        "Precio Venta": 1160,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 12 PRO MAX INCELL JK/BYH",
+        "Proveedor": null,
+        "Precio Compra": 450,
+        "Precio Venta": 1100,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 13 FHD/JK",
+        "Proveedor": null,
+        "Precio Compra": 470,
+        "Precio Venta": 1050,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 13 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 322,
+        "Precio Venta": 900,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 13 PRO INCELL",
+        "Proveedor": null,
+        "Precio Compra": 534,
+        "Precio Venta": 1560,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 13 PRO MAX INCELL JK/BYH",
+        "Proveedor": null,
+        "Precio Compra": 606,
+        "Precio Venta": 1680,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 13 PRO MAX OLED GX",
+        "Proveedor": null,
+        "Precio Compra": 1362,
+        "Precio Venta": 3460,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 14 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 345,
+        "Precio Venta": 940,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 14 PLUS FHD",
+        "Proveedor": null,
+        "Precio Compra": 575,
+        "Precio Venta": 1260,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 14 PLUS INCELL",
+        "Proveedor": null,
+        "Precio Compra": 335,
+        "Precio Venta": 800,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 14 PRO INCELL",
+        "Proveedor": null,
+        "Precio Compra": 579,
+        "Precio Venta": 2100,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 14 PRO MAX INCELL JK",
+        "Proveedor": null,
+        "Precio Compra": 850,
+        "Precio Venta": 2000,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6 PLUS Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6 PLUS Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6G Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 115,
+        "Precio Venta": 330,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6G Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 125,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6S Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 130,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6S Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6S PLUS Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 6S PLUS Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 7 PLUS Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 7 PLUS Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 130,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 7G Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 105,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 7G Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 8 PLUS Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 8 PLUS Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 8G Blanco TM",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP 8G Negro TM",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP X INCELL",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP X OLED",
+        "Proveedor": null,
+        "Precio Compra": 633,
+        "Precio Venta": 1370,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XR FHD",
+        "Proveedor": null,
+        "Precio Compra": 300,
+        "Precio Venta": 700,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XR INCEL JK",
+        "Proveedor": null,
+        "Precio Compra": 310,
+        "Precio Venta": 720,
+        "Existencia mínimo": null,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis IP XR INCELL TIANMA",
+        "Proveedor": null,
+        "Precio Compra": 250,
+        "Precio Venta": 660,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS FHD",
+        "Proveedor": null,
+        "Precio Compra": 310,
+        "Precio Venta": 760,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS INCELL",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS MAX FHD",
+        "Proveedor": null,
+        "Precio Compra": 300,
+        "Precio Venta": 740,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS MAX INCELL",
+        "Proveedor": null,
+        "Precio Compra": 290,
+        "Precio Venta": 680,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS MAX INCELL JK",
+        "Proveedor": null,
+        "Precio Compra": 335,
+        "Precio Venta": 770,
+        "Existencia mínimo": null,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS MAX OLED",
+        "Proveedor": null,
+        "Precio Compra": 640,
+        "Precio Venta": 1400,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP XS OLED",
+        "Proveedor": null,
+        "Precio Compra": 505,
+        "Precio Venta": 1110,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS J4 PLUS/J4 CORE/J6 PLUS NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 360,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis K10 2018 Negro / LG",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS K50S INCELL",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS K51S NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS LG K41 ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS LG K51 ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS LG K61 ORI",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis MATE 20 LITE/NOVA 3/3i ORI",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOT EDGE 20 LITE/ EDGE 20 FUSION OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 795,
+        "Precio Venta": 1800,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOT G8 POWER LITE ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 226,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOT G9 PLUS ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 275,
+        "Precio Venta": 720,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOT G9/G9 PLAY/E7 PLUS ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E 2020",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E14 / G04",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E20 ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E20 ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E22/E22i ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E40/E30 ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Moto E5 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E6 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E6S/E6i ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO E7 / E7I / E7 POWER / E7I POWER ORI",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 7,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G 5G 2022",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G 5G 2023 ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G 5G/G 5G 2021 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G PLAY 2023 ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G POWER 2024 ORI",
+        "Proveedor": null,
+        "Precio Compra": 270,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G PURE ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G10/G10 POWER/G20/G30 ORI",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 530,
+        "Existencia mínimo": 0,
+        "Existencias": 9,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G14 C/M ORI",
+        "Proveedor": null,
+        "Precio Compra": 270,
+        "Precio Venta": 660,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G14/G54 ORI",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G24/G04/G14/G04S/G24/E14 POWER",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G31/G41/G71 5G/G42 4G OLED",
+        "Proveedor": null,
+        "Precio Compra": 580,
+        "Precio Venta": 1260,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G32/G62/G42 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 580,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G53 5G C/M  ORI",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G53 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G60 ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 275,
+        "Precio Venta": 650,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G60/G51 5G/G60S/G40 FUSION ORI",
+        "Proveedor": null,
+        "Precio Compra": 225,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Moto G7 Play ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Moto G7 POWER ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 PLAY/ONE MACRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 PLUS ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 315,
+        "Precio Venta": 730,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 POWER / MOTO G STYLUS 4G 2020 ORI",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G8 POWER LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G9 ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO G9 POWER ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE FUSION ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE FUSION PLUS BLANCO ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE FUSION PLUS NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE HYPER ORI",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Moto One Negro ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 390,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE POWER NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 280,
+        "Precio Venta": 660,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS MOTO ONE VISION / ACTION NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 590,
+        "Precio Venta": 1280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 10 4G / NOTE 10S 4G / POCO M5S INCELL",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 10 LITE NEGRO OLED",
+        "Proveedor": null,
+        "Precio Compra": 300,
+        "Precio Venta": 700,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 11 4G/11S/12S/POCO M4 PRO 4G OLED",
+        "Proveedor": null,
+        "Precio Compra": 565,
+        "Precio Venta": 1320,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 11 PRO 4G/5G OLED",
+        "Proveedor": null,
+        "Precio Compra": 580,
+        "Precio Venta": 1260,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 11 PRO/NOTE 10 PRO 4G/5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 11/NOTE 11S 4G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOTE 8 PRO FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 335,
+        "Precio Venta": 770,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOVA 5T COF",
+        "Proveedor": null,
+        "Precio Compra": 245,
+        "Precio Venta": 620,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOVA Y60 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS NOVA Y90 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 330,
+        "Precio Venta": 760,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A12 ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A15/REALME C11/NARZO 20 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A16 ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A31 ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A52/A72/A92 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A53 4G/A32/A53S/A33/ONE PLUS NORD N100 ORI",
+        "Proveedor": null,
+        "Precio Compra": 192,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A54 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A57/A17/A38/A77/A58  5G/A78 5G FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 168,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 12,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A58 5G C/M",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS OPPO A78 4G/A58 4G C/M",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis P20 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS P30 COPY",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 580,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS P30 LITE COG",
+        "Proveedor": null,
+        "Precio Compra": 175,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis P30 LITE/NOVA 4E COF",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 620,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS P30 OLED",
+        "Proveedor": null,
+        "Precio Compra": 610,
+        "Precio Venta": 1320,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS P40 LITE/NOVA 7I FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 265,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS P50 LITE NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 400,
+        "Precio Venta": 900,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO F3 4G",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO M3 4G/REDMI 9T/NOTE 9 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO M4 PRO 4G ORI",
+        "Proveedor": null,
+        "Precio Compra": 530,
+        "Precio Venta": 1160,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO X3 GT ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO X3 PRO/X3 ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 660,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO X4 PRO/REDMI NOTE 10 PRO/NOTE 11 PRO/10 PRO MAX/NOTE 11 PLUS/NOTE 12 PRO 4G  OLED",
+        "Proveedor": null,
+        "Precio Compra": 605,
+        "Precio Venta": 1310,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS POCO X5 PRO 5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis PSmart 2018 Negro ORI",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 580,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS PSMART 2019  COF",
+        "Proveedor": null,
+        "Precio Compra": 250,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis PSMART 2019 FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 250,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS PSMART 2019 NEGRO COG",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REALME 7 ORI",
+        "Proveedor": null,
+        "Precio Compra": 275,
+        "Precio Venta": 650,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REALME C15 ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 370,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REALME C33 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 220,
+        "Precio Venta": 540,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REALME C35 ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 10  FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 10 5G/POCO M5 ORI",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 10C / POCO C40 ori",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 7 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 390,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 8A NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 9 ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI 9I/9A/9C/10A ORI",
+        "Proveedor": null,
+        "Precio Compra": 184,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI A2/A2 PLUS/A1/A1 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI A3 ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI MI 11 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 700,
+        "Precio Venta": 1500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE 13 4G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 250,
+        "Precio Venta": 680,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE 7/NOTE 7 PRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 145,
+        "Precio Venta": 450,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE 8 ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE 9/NOTE 10X ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE 9S/NOTE 9 PRO/ NOTE 9 PLUS ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS REDMI NOTE10 4G/NOTE 10S/POCO M5S OLED",
+        "Proveedor": null,
+        "Precio Compra": 540,
+        "Precio Venta": 1180,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS RENO 5 LITE//REALME 8 PRO/REALME 7 PRO / RENO 5 Z OLED",
+        "Proveedor": null,
+        "Precio Compra": 860,
+        "Precio Venta": 1820,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS RENO 5 LITE/RENO 6 LITE/REALME 8 PRO/REALME 7 PRO/RENO 5Z INCELL",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS RENO 6 LITE OLED",
+        "Proveedor": null,
+        "Precio Compra": 785,
+        "Precio Venta": 1670,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS RENO 7 4G/RENO A78 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS RENO 7 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 570,
+        "Precio Venta": 1240,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A05 ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A05S ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A06 ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A10 / M10 ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 430,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A11/M11 ORI",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A14 5G BIG ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A15 4G ORI SIZE OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 670,
+        "Precio Venta": 1440,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A20 OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 500,
+        "Precio Venta": 1160,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A23 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A24 4G/5G OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 560,
+        "Precio Venta": 1220,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A24 ORI",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 1,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A30S OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 529,
+        "Precio Venta": 1160,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A32 4G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A52 4G/A52S 5G OLED C/M FULL SIZE",
+        "Proveedor": null,
+        "Precio Compra": 670,
+        "Precio Venta": 1440,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A53 4G / 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 215,
+        "Precio Venta": 540,
+        "Existencia mínimo": null,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A53 5G INCELL",
+        "Proveedor": null,
+        "Precio Compra": 205,
+        "Precio Venta": 510,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A53 5G OLED C/M ORI SIZE",
+        "Proveedor": null,
+        "Precio Compra": 645,
+        "Precio Venta": 1290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A54 5G ORI SIZE OLED C/M",
+        "Proveedor": null,
+        "Precio Compra": 620,
+        "Precio Venta": 1340,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A55 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 780,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A70 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
+        "Existencia mínimo": null,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS STYLO6/K71/K710 ORI",
+        "Proveedor": null,
+        "Precio Compra": 335,
+        "Precio Venta": 800,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS V ULTRA NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 270,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS V10 VITA ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS V20 SMART 6.82 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 225,
+        "Precio Venta": 550,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS V30 VITA/V20 SMART ORI",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS XIAOMI POCO C55/REDMI 12C ORI",
+        "Proveedor": null,
+        "Precio Compra": 155,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y11S / Y20 / Y20S / Y20i / Y15S ORI",
+        "Proveedor": null,
+        "Precio Compra": 170,
+        "Precio Venta": 440,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y22S 4G/Y74S/Y76S/Y33/Y33T/Y21ST ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y5 2018 Negro ORI",
+        "Proveedor": null,
+        "Precio Compra": 125,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y5 2019 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 390,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y6S / Y6 2019 / HONOR 8A Negro ORI",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 490,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y7 2018 ORI",
+        "Proveedor": null,
+        "Precio Compra": 135,
+        "Precio Venta": 410,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y7 2019/Y7P 2019 ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 380,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y70 FULL ORI",
+        "Proveedor": null,
+        "Precio Compra": 150,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y7A/PSMART 2021/HONOR X10 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y7P 2020/P40 LITE E ORI",
+        "Proveedor": null,
+        "Precio Compra": 165,
+        "Precio Venta": 420,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y7P/Y7P 2020/P40 LITE ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 320,
+        "Precio Venta": 740,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y8P NEGRO INCELL",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 580,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y9 2018 Negro ORI",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "Dis Y9 2019/Y8S/HONOR 8X ORI",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9 2019/Y8S/HONOR 8X/Y9P COG",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9 PRIME 2019 COF C/M",
+        "Proveedor": null,
+        "Precio Compra": 345,
+        "Precio Venta": 790,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9 PRIME 2019/HONOR 9X COF",
+        "Proveedor": null,
+        "Precio Compra": 270,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9A / HONOR 10X ORI",
+        "Proveedor": null,
+        "Precio Compra": 265,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9A COG",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9S/HONOR 9X COF",
+        "Proveedor": null,
+        "Precio Compra": 240,
+        "Precio Venta": 600,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9S/HONOR 9X COG",
+        "Proveedor": null,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9S/HONOR 9X ORI",
+        "Proveedor": null,
+        "Precio Compra": 276,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS Y9S/HONOR 9X ORI C/M",
+        "Proveedor": null,
+        "Precio Compra": 390,
+        "Precio Venta": 900,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A5 2019 NEGRO AAA",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A5 2020/A7 2020/A7 2019 ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 520,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A51/A71 ORI",
+        "Proveedor": null,
+        "Precio Compra": 218,
+        "Precio Venta": 540,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A52 LITE ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A52 ORI",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 470,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE A54/A34/A74 ORI",
+        "Proveedor": null,
+        "Precio Compra": 160,
+        "Precio Venta": 540,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE AXON 50 LITE",
+        "Proveedor": null,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE V2020 5G ORI",
+        "Proveedor": null,
+        "Precio Compra": 195,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE V30 / V40 ORI",
+        "Proveedor": null,
+        "Precio Compra": 235,
+        "Precio Venta": 570,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS ZTE V41 SMART/V40 SMART/V40 VITA / A72 4G / A72S ORI",
+        "Proveedor": null,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "FLEX A01 CORE CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A01M C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A02 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A02S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A03 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A04 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A04E CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A04S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A10E C/C",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A10S  CON IC C/C VER M16",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A10S CON IC C/C VER M15",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 8,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A11 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A13 4G C/C SAMSUNG",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A15 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A20 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A20S VER M12 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A20S VER M14 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A21 C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A21S  CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A22 4G CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A24 4G CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 64,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A30 CON IC",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A30S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A32 4G CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A5 2020 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A50 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A50S C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A51 C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A53 CON IC C/C OPPO",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A7 2018 C/C",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A70 C/C",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A71 C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX A7S 2020 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX C11 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E13 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E22 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E5 PLAY GO CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E6 PLUS CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E6I/E6S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX E7 PLUS CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G20 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G22 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G51 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G6 PLAY CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G7 PLAY CON IC",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G7 POWER CON IC",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 240,
+        "Existencia mínimo": 0,
+        "Existencias": 9,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G71 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G8 PLAY CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G8 PLUS C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G8 POWER CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G8 POWER LITE CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G9 PLAY C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G9 PLUS CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX G9 POWER CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 11 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 11 PRO C/C",
+        "Proveedor": null,
+        "Precio Compra": 95,
+        "Precio Venta": 310,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 6G CC",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 6G Plus CC",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 240,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 6S CC",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 6S Plus CC",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 7 PLUS C/C",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP 7G CC",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP X C/C",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX IP XS C/C",
+        "Proveedor": null,
+        "Precio Compra": 55,
+        "Precio Venta": 230,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Mate 10 Lite CC",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MATE 20 LITE C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO E20 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Moto E5 Plus CC",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO E7 C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO G13 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO G31/G41 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO ONE C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO ONE FUSION C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO ONE HYPER C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO ONE POWER C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX MOTO ONE VISION CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX NOTE 11/11S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX NOTE 8 PRO C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX NOTE 9 PRO CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX NOVA 3 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX OPPO A16 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX OPPO A17 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX OPPO A73 C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 8,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX P20 LITE C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX P30 LITE C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX PSMART 2018 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX PSMART 2019 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REALME C12 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REALME C15 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REALME C20 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REALME C21 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI 10 C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI 10A CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI 10C CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI 9 C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI 9A/REDMI 9C CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI NOTE 10S CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX REDMI NOTE 12 4G CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A10 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A12 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A13 5G C/C",
+        "Proveedor": null,
+        "Precio Compra": 1,
+        "Precio Venta": 4,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A22 5G CON I/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A31 C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 10,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A31 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A32 5G CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX SAM A33 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX V10 C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX V10 VITA C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX V20 SMART C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX V9 VITA C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX XIAOMI 9T CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y20 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y5 2019 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y6 2018 CC",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y6 2019 IC CC",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y7 2018 CC",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y7 2019 CON IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y9 2018 C/C",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX Y9 PRIME 2019 IC C/C",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX ZTE A51 C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "FLEX ZTE A71 C/C",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX DE CARGA"
+    },
+    {
+        "Nombre": "INTERCON A15",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A16",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A20S VER M12",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 6,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A30S",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 12,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A5 2020",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A50",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON A7S 2020",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON E5 PLUS",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON G8 PLAY",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON G8+ VER B1",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON G8+ VER HF",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON HONOR 10 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON HONOR 8X",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MATE 10",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MATE 20",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 220,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MOTO ONE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MOTO ONE ACTION",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MOTO ONE HYPER",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MOTO ONE VISION",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MT10 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON MT20 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON NOTE 8",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON NOVA5T",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON ONE FUSION+",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON ONE MACRO",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON OPPO A53 4G",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON OPPO A54 5G",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P20 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P20 PRO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P30",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P30 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P40",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON P40 LITE",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON PSMART 2018",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON PSMART 2019",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A10S",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A20",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A20S VER M14",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A21S",
+        "Proveedor": null,
+        "Precio Compra": 22.5,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A30",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A31",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A50S",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A70",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM A71",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM NOTE 10 LITE",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM NOTE 10 PLUS",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON SAM S20 PLUS",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON V10 VITA",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON V9 VITA",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y6 2018",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y6P 2020",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y6S/Y6 2019",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y9 2018",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y9 2019",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON Y9 PRIME/Y9S",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "INTERCON ZTE A7 2019",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "FLEX INTERCONEXION"
+    },
+    {
+        "Nombre": "LENTE NOTE 9S/NOTE9 PRO",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 130,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "LENTES"
+    },
+    {
+        "Nombre": "LENTE SAM A50",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 130,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "LENTES"
+    },
+    {
+        "Nombre": "LENTE SAMSUNG A20S",
+        "Proveedor": null,
+        "Precio Compra": 5,
+        "Precio Venta": 130,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "LENTES"
+    },
+    {
+        "Nombre": "Pegamento B-7000 110ML",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "Pegamento B-7000 50ML",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "PEGAMENTO T-7000 110ML",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "PEGAMENTO T-7000 50ML",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 5,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "SERVICIO A DOMICILIO",
+        "Proveedor": null,
+        "Precio Compra": 0.01,
+        "Precio Venta": 20,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": null
+    },
+    {
+        "Nombre": "SILICONE MAT 502 TAPETE TERMICO",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 320,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "ACCESORIOS"
+    },
+    {
+        "Nombre": "SIM  Y9 PRIME 2019 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM A03 CORE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 11 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 11 PRO MAX NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 11 PRO NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 12 MINI NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 12 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 12 PRO MAX NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 12 PRO NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 13 MINI NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 13 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 13 PRO MAX NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 13 PRO NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 6 PLATA",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 6 PLUS PLATA",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 6S PLATA",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 7 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 7 ORO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 7 PLUS NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP 8 PLUS NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 11,
+        "Precio Venta": 142,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP X NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP XR NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP XS MAX NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 20,
+        "Precio Venta": 160,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM IP XS NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO E6 PLAY NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO E6S / G8 POWER LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO G10 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO G30 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO G7 PLAY NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MOTO ONE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM MT20 LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM NOVA 5T AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM NOVA 5T NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM P30 LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM P30 PRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM P40 LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM P40 LITE ORO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM PSMART 2019 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM REDMI 9 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 6,
+        "Precio Venta": 132,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y5 2018 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y5 2018 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y5 2018 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y6 2019 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y6P AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y7 2018 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y7 2018 NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y7 2019 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y7A AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y7A NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y8S NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y9 2019 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y9A",
+        "Proveedor": null,
+        "Precio Compra": 15,
+        "Precio Venta": 150,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y9S AZUL",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y9S BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "SIM Y9S NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 10,
+        "Precio Venta": 140,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "BANDEJAS SIM"
+    },
+    {
+        "Nombre": "TAPA A12 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A12 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A12 ROJO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A20/A30 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A20/A30 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A20S AZUL",
+        "Proveedor": null,
+        "Precio Compra": 27,
+        "Precio Venta": 174,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A20S NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 37,
+        "Precio Venta": 194,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A21S AZUL",
+        "Proveedor": null,
+        "Precio Compra": 37,
+        "Precio Venta": 194,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A21S NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 37,
+        "Precio Venta": 194,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A31 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A31 NEGRO ORI",
+        "Proveedor": null,
+        "Precio Compra": 37,
+        "Precio Venta": 194,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA A70 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "Tapa A710 Blanco",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "Tapa A710 Negro",
+        "Proveedor": null,
+        "Precio Compra": 45,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 AMARILLO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 LILA",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 PRO GRIS",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 PRO MAX BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 PRO MAX VERDE",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 PRO NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": null,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 PRO ORO",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 11 VERDE",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 MORADO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO MAX BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO ORO",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 VERDE",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 210,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO MAX AZUL",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 ROSA",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 8 ROJO",
+        "Proveedor": null,
+        "Precio Compra": 25,
+        "Precio Venta": 170,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP X NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP XR NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP XS NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 30,
+        "Precio Venta": 180,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A12 CON CAM VERDE",
+        "Proveedor": null,
+        "Precio Compra": 60,
+        "Precio Venta": 240,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A16 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A16 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 190,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A53 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A54 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA OPPO A54 VERDE",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA P30 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA P30 LITE BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 55,
+        "Precio Venta": 230,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA P40 LITE PLATA",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA P40 LITE VERDE",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA RENO 5 LITE NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S10 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S10 NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S10 PLUS AZUL",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S10 PLUS NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 250,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S10 VERDE",
+        "Proveedor": null,
+        "Precio Compra": 80,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S22 ULTRA AZUL",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S22 ULTRA BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S22 ULTRA NEGRO",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA S22 ULTRA ROJO",
+        "Proveedor": null,
+        "Precio Compra": 85,
+        "Precio Venta": 290,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    }
+]

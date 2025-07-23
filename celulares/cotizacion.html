@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yesmos - Cotización de Reparaciones</title>
+    <link rel="stylesheet" href="../CSS/estilos-cotizaciones.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <div class="logo-icon">
+                        <i class="fas fa-mobile-alt"></i>
+                    </div>
+                    <div class="logo-text">
+                        <h1>Yesmos.com</h1>
+                        <p>Cotización de reparaciones móviles</p>
+                    </div>
+                </div>
+                <div class="header-badge" id="serviceBadge" style="display: none;">
+                    <span id="serviceCount">0</span> servicios
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <div class="layout">
+                <!-- Panel principal -->
+                <div class="main-panel">
+                    <!-- Filtros -->
+                    <div class="filters-card">
+                        <div class="filters-content">
+                            <div class="search-container">
+                                <i class="fas fa-search search-icon"></i>
+                                <input type="text" id="searchInput" placeholder="Buscar por modelo o marca..." class="search-input">
+                            </div>
+                            <select id="brandFilter" class="brand-filter" title="marcas">
+                                <option value="todas">Todas las marcas</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Categorías -->
+                    <div class="categories-grid" id="categoriesGrid">
+                        <!-- Las categorías se generarán dinámicamente -->
+                    </div>
+
+                    <!-- Lista de refacciones -->
+                    <div class="products-card">
+                        <div class="products-header">
+                            <h2 id="categoryTitle">Selecciona una categoría</h2>
+                            <span class="products-count" id="productsCount">0 disponibles</span>
+                        </div>
+                        <div class="products-content">
+                            <div id="productsList" class="products-list">
+                                <div class="empty-state">
+                                    <i class="fas fa-mobile-alt empty-icon"></i>
+                                    <p>Selecciona una categoría para ver los productos disponibles</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Panel de cotización -->
+                <div class="quote-panel">
+                    <div class="quote-card">
+                        <div class="quote-header">
+                            <h3>Cotización</h3>
+                            <button id="toggleQuote" class="toggle-btn" style="display: none;">
+                                <i class="fas fa-minus"></i>
+                            </button>
+                        </div>
+                        <div class="quote-content">
+                            <div id="emptyQuote" class="empty-quote">
+                                <i class="fas fa-mobile-alt empty-icon"></i>
+                                <p>Selecciona servicios para crear tu cotización</p>
+                            </div>
+                            <div id="quoteItems" class="quote-items" style="display: none;">
+                                <div id="quoteList" class="quote-list"></div>
+                                <div class="quote-separator"></div>
+                                <div class="quote-total">
+                                    <div class="total-row">
+                                        <span class="total-label">Total:</span>
+                                        <span class="total-amount" id="totalAmount">$0</span>
+                                    </div>
+                                    <div class="quote-actions">
+                                        <button id="downloadBtn" class="action-btn primary">
+                                            <i class="fas fa-download"></i>
+                                            Descargar
+                                        </button>
+                                        <button id="printBtn" class="action-btn secondary">
+                                            <i class="fas fa-print"></i>
+                                            Imprimir
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Loading -->
+    <div id="loading" class="loading">
+        <div class="loading-spinner"></div>
+        <p>Cargando productos...</p>
+    </div>
+
+    <script src="../JS/cotizaciones.js"></script>
+</body>
+</html>

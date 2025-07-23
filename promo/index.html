@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recargon Poderozo</title>
+    <link rel="stylesheet" href="./CSS/styles.css">
+    <link rel="stylesheet" href="./CSS/styles-carrusell.css">
+    <script src="./JS/script.js"></script>
+    <script src="./JS/script-carrusell.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="./IMG/logo_yesmos.png" alt="Logo de la empresa" width="120">
+        </div>
+        <div class="logo">
+            <img src="./IMG/logo_poderosa.png" alt="Logo de la empresa" width="120">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="https://www.yesmos.com">Inicio</a></li>
+                <li><a href="https://www.yesmos.com/celulares/">Yesmos Celulares</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="main-section">
+            <div class="left">
+                <button class="btn yesmos-social" onclick="window.open('https://www.facebook.com/yesmos', '_blank')">Facebook <br>Yesmos</button>
+                <button class="btn yesmos-social" onclick="window.open('https://www.instagram.com/_yesmos__/', '_blank')">Instagram <br>Yesmos</button>
+                <button class="btn yesmos-social" onclick="window.open('https://wa.me/523531844881', '_blank')">WhatsApp <br>Yesmos</button>
+                <button class="btn lapoderoza-social" onclick="window.open('https://www.facebook.com/LaPoderosaSahuayo', '_blank')">Facebook <br>La Poderosa</button>
+                <button class="btn lapoderoza-social" onclick="window.open('https://www.instagram.com/lapoderosasahuayo?igsh=MTlxd2d6aGZmd3ZnNw%3D%3D', '_blank')">Instagram <br>La Poderosa</button>
+                <button class="btn lapoderoza-social" onclick="window.open('https://www.tiktok.com/@lapoderosasahuayo', '_blank')">TikTok <br>La Poderosa</button>
+                <button class="btn lapoderoza-social" onclick="window.open('https://wa.me/523532486551', '_blank')">WhatsApp <br>La Poderosa</button>
+            </div>
+            <div class="center">
+                <div class="center-container">
+                    <h1 class="titulo">RECARGON PODEROZO</h1>
+                    <h3 class="texto">Yesmos Celulares y La Poderoza 88.5 FM te regalan</h3>
+                    <h3 class="texto">UNA RECARGA DE $100</h3>
+                    <button class="btnCodigo" onclick="generarCodigo()">Generar Código</button>
+                    <p id="codigoGenerado" class="codigo-generado"></p>
+                    <div id="qrCodeContainer" class="qr-container"></div>
+                    <p id="fechaGeneracion" class="fecha-generacion"></p>
+                </div>
+            </div>
+            <div class="right">
+                <div class="phone-preview">
+                    <img src="./IMG/tel5.png" alt="Imagen del teléfono" class="phone-img">
+                    <h2>Teléfono ZTE A54</h2>
+                    <p class="phone-description">Pantalla de 6.6” HD+, Batería de alta duración de 5000mAh, 128GB Memoria interna, Cámara de 13 Mpx, procesador Octa-core a 1.6 GHz.</p>
+                    <button class="btn-buy" onclick="irAlCarrusel()">Ver más</button>
+                </div>
+            </div>
+        </section>
+        <section class="carrusel-section" id="carousel-section">
+            <div class="left-side">
+                <div class="carousel-container">
+                    <div class="carousel">
+                        <img src="./IMG/tel1.png" class="carousel-item active" alt="Teléfono 1">
+                        <img src="./IMG/tel2.png" class="carousel-item" alt="Teléfono 2">
+                        <img src="./IMG/tel3.png" class="carousel-item" alt="Teléfono 3">
+                        <img src="./IMG/tel4.png" class="carousel-item active" alt="Teléfono 1">
+                        <img src="./IMG/tel5.png" class="carousel-item" alt="Teléfono 2">
+                    </div>
+                    <button class="carousel-btn prev" onclick="moveSlide(-1)">&#10094;</button>
+                    <button class="carousel-btn next" onclick="moveSlide(1)">&#10095;</button>
+                    <div class="carousel-indicators"></div>
+                </div>
+            </div>
+            <div class="right-side">
+                <!-- Botones para cambiar entre tarjetas -->
+                <div class="tab-buttons">
+                    <button class="tab-button active" onclick="showCard('basic-info')">Información Básica</button>
+                    <button class="tab-button" onclick="showCard('detailed-info')">Características</button>
+                </div>
+                <!-- Tarjeta de Información Básica -->
+                <div id="basic-info" class="card active">
+                    <h2>ZTE BLADE A54</h2>
+                    <p><strong>Precio:</strong> $1,699 MXN</p>
+                    <p><strong>Capacidad:</strong> 128GB</p>
+                    <p><strong>Cámara:</strong> 13 MPX</p>
+                </div>
+                <!-- Tarjeta de Características Detalladas -->
+                <div id="detailed-info" class="card">
+                    <h2>Características</h2>
+                    <ul>
+                        <li>Gran pantalla de 6.6” HD+</li>
+                        <li>Batería de alta duración 5,000mAh</li>
+                        <li>Memoria interna de 128GB</li>
+                        <li>Cámara Principal 13Mpx, Frontal 5 Mpx</li>
+                        <li>Fingerprint en el botón de desbloqueo</li>
+                        <li>Contenido de la caja: <br>Cargador de pared, cable USB y guía de inicio rápido</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>

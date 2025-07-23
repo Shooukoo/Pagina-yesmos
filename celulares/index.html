@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yesmos Celulares - Tienda de Teléfonos Móviles</title>
+    <link rel="icon" href="../IMG/LOGOS/Yesmos celulares/Logo_Yesmos_Celu_Azul.png" type="image/png">
+    <link rel="stylesheet" href="../CSS/estilos-telefonos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <!-- Encabezado principal -->
+    <header class="header">
+        <div class="container">
+            <div class="logo-container">
+                <img src="../IMG/Logo_blanco.png" alt="Logo Yesmos" class="logo-img">
+                <h1 class="logo">yesmos.com</h1>
+            </div>
+            <nav class="nav">
+                <ul>
+                    <li><a href="../index.html">Inicio</a></li>
+                    <li><a href="../celulares/lista">Yesmos Refacciones</a></li>
+                    <li><a href="../celulares/index.html">Yesmos Celulares</a></li>
+                </ul>
+            </nav>
+            <div class="menu-toggle" id="menu-toggle">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+
+        <!-- Menú móvil -->
+        <nav class="mobile-menu" id="mobile-menu">
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="../celulares/lista">Yesmos Refacciones</a></li>
+                <li><a href="../celulares/index.html">Yesmos Celulares</a></li>
+            </ul>
+        </nav>
+
+        <!-- Barra de búsqueda -->
+        <div class="search-bar">
+            <div class="container">
+                <div class="search-container">
+                    <i class="fas fa-search search-icon"></i>
+                    <input type="search" id="search-input" placeholder="Buscar teléfonos...">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="main-content">
+            <!-- Sidebar - Filtros -->
+            <aside class="sidebar">
+                <div class="filter-box" id="filter-box">
+                    <h2 id="filter-title">
+                        Filtrar por marca
+                        <i class="fas fa-chevron-down filter-icon"></i>
+                    </h2>
+                    <div id="brand-filters" class="brand-filters">
+                        <!-- Los filtros se generarán dinámicamente con JavaScript -->
+                    </div>
+                    <button id="clear-filters" class="clear-filters-btn">Limpiar filtros</button>
+                </div>
+            </aside>
+
+            <!-- Contenido principal - Catálogo -->
+            <div class="catalog">
+                <div class="catalog-header">
+                    <h2>Catálogo de teléfonos</h2>
+                    <p id="product-count" class="product-count">0 productos</p>
+                </div>
+
+                <div id="no-results" class="no-results hidden">
+                    <p>No se encontraron productos que coincidan con tu búsqueda.</p>
+                    <button id="clear-search" class="clear-search-btn">Limpiar filtros</button>
+                </div>
+
+                <div id="product-grid" class="product-grid">
+                    <!-- Los productos se generarán dinámicamente con JavaScript -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="../JS/script.js"></script>
+</body>
+</html>

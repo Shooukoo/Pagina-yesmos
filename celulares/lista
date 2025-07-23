@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Redirección</title>
+    <script type="text/javascript">
+        // Redirige automáticamente después de cargar la página
+        window.location.href = "https://www.anegocios.com.mx/99/PLAZA_TELCEL";
+    </script>
+</head>
+<body>
+    <!-- Mensaje opcional por si la redirección falla -->
+    <p>Si no eres redirigido automáticamente, haz clic <a href="https://www.anegocios.com.mx/99/PLAZA_TELCEL">aquí</a>.</p>
+</body>
+</html>
