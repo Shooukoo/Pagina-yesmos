@@ -3,7 +3,7 @@ let refacciones = []
 let categoriaActiva = ""
 let cotizacion = []
 let mostrarResumen = true
-const WHATSAPP_NUMBER = "523531204502" // Número de WhatsApp para contacto
+const WHATSAPP_NUMBER = "523531844881" // Número de WhatsApp para contacto
 
 // Mapeo de categorías con iconos
 const categoriasConfig = {
@@ -34,6 +34,7 @@ const elements = {
     quoteList: document.getElementById("quoteList"),
     totalAmount: document.getElementById("totalAmount"),
     toggleQuote: document.getElementById("toggleQuote"),
+    whatsappBtn: document.getElementById("whatsappBtn"),
     downloadBtn: document.getElementById("downloadBtn"),
     printBtn: document.getElementById("printBtn"),
 }
@@ -134,6 +135,7 @@ function inicializarEventListeners() {
     elements.searchInput.addEventListener("input", filtrarProductos)
     elements.brandFilter.addEventListener("change", filtrarProductos)
     elements.toggleQuote.addEventListener("click", toggleResumen)
+    elements.whatsappBtn.addEventListener("click", enviarWhatsApp)
     elements.downloadBtn.addEventListener("click", descargarCotizacion)
     elements.printBtn.addEventListener("click", imprimirCotizacion)
 }
@@ -592,34 +594,60 @@ function imprimirCotizacion() {
     ventanaImpresion.document.close()
 }
 
-// Enviar cotización por WhatsApp
 function enviarWhatsApp() {
     if (cotizacion.length === 0) {
         alert("No hay productos en la cotización para enviar")
         return
     }
 
-    const total = cotizacion.reduce((sum, item) => sum + item.refaccion.precio * item.cantidad, 0)
+    let subtotalSinDescuento = 0
+    let totalDescuentos = 0
+    let totalFinal = 0
+
+    const detallesProductos = cotizacion.map((item) => {
+        const precios = calcularPrecioFinal(item.producto["Precio Venta"])
+        const subtotalProducto = precios.final * item.cantidad
+        const descuentoProducto = precios.totalDescuento * item.cantidad
+
+        subtotalSinDescuento += subtotalProducto
+        totalDescuentos += descuentoProducto
+
+        return {
+            ...item,
+            precios: precios,
+            subtotalProducto,
+            descuentoProducto,
+        }
+    })
+
+    totalFinal = subtotalSinDescuento - totalDescuentos
 
     const mensaje = `🔧 *COTIZACIÓN DE REPARACIÓN - EQUIPOS MÓVILES*
 
 📅 *Fecha:* ${new Date().toLocaleDateString("es-ES")}
+🆔 *Cotización #:* COT-${Date.now().toString().slice(-6)}
 
 📱 *SERVICIOS SOLICITADOS:*
-${cotizacion
-            .map(
-                (item) =>
-                    `• ${item.categoria}
-  📱 ${item.refaccion.modelo} (${item.refaccion.marca})
-  📦 Cantidad: ${item.cantidad}
-  💰 Precio unitario: $${item.refaccion.precio.toLocaleString()}
-  💵 Subtotal: $${(item.refaccion.precio * item.cantidad).toLocaleString()}`,
-            )
+${detallesProductos
+            .map((item) => {
+                const marca = extraerMarca(item.producto.Nombre)
+                const modelo = item.producto.Nombre.replace(marca, "").trim()
+
+                return `• ${item.categoria}
+📱 ${modelo} (${marca})
+📦 Cantidad: ${item.cantidad}
+🔄 Precio ajustado: $${item.precios.final.toLocaleString()}
+🎯 Descuento por unidad: $${item.precios.totalDescuento.toLocaleString()}
+💵 Subtotal: $${item.subtotalProducto.toLocaleString()}`
+            })
             .join("\n\n")}
 
-💰 *TOTAL: $${total.toLocaleString()}*
+💰 *RESUMEN DE TOTALES:*
+📊 Subtotal: $${subtotalSinDescuento.toLocaleString()}
+🎁 Descuento total: -$${totalDescuentos.toLocaleString()}
+✅ *TOTAL A PAGAR: $${totalFinal.toLocaleString()}*
 
-📝 *Nota:* Esta cotización tiene validez de 30 días.
+📝 *Nota:* Esta cotización tiene validez de 30 días calendario.
 
 ¿Podrías confirmar la disponibilidad y agendar la reparación? ¡Gracias! 😊`
 
@@ -628,6 +656,7 @@ ${cotizacion
 
     window.open(urlWhatsApp, "_blank")
 }
+
 
 
 // Descargar cotización

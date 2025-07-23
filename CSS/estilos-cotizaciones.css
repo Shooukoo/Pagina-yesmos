@@ -608,6 +608,12 @@ body {
     animation: slideInUp 0.5s ease 0.4s both;
 }
 
+.secondary-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+}
+
 .action-btn {
     padding: 0.75rem;
     border: none;

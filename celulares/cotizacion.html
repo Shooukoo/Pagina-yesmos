@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +8,7 @@
     <link rel="stylesheet" href="../CSS/estilos-cotizaciones.css">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
+
 <body>
     <!-- Header -->
     <header class="header">
@@ -38,7 +40,8 @@
                         <div class="filters-content">
                             <div class="search-container">
                                 <i class="fas fa-search search-icon"></i>
-                                <input type="text" id="searchInput" placeholder="Buscar por modelo o marca..." class="search-input">
+                                <input type="text" id="searchInput" placeholder="Buscar por modelo o marca..."
+                                    class="search-input">
                             </div>
                             <select id="brandFilter" class="brand-filter" title="marcas">
                                 <option value="todas">Todas las marcas</option>
@@ -91,14 +94,20 @@
                                         <span class="total-amount" id="totalAmount">$0</span>
                                     </div>
                                     <div class="quote-actions">
-                                        <button id="downloadBtn" class="action-btn primary">
-                                            <i class="fas fa-download"></i>
-                                            Descargar
+                                        <button id="whatsappBtn" class="action-btn primary">
+                                            <i class="fab fa-whatsapp"></i>
+                                            Agendar por WhatsApp
                                         </button>
-                                        <button id="printBtn" class="action-btn secondary">
-                                            <i class="fas fa-print"></i>
-                                            Imprimir
-                                        </button>
+                                        <div class="secondary-actions">
+                                            <button id="downloadBtn" class="action-btn secondary">
+                                                <i class="fas fa-download"></i>
+                                                Descargar
+                                            </button>
+                                            <button id="printBtn" class="action-btn secondary">
+                                                <i class="fas fa-print"></i>
+                                                Imprimir
+                                            </button>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -117,4 +126,5 @@
 
     <script src="../JS/cotizaciones.js"></script>
 </body>
+
 </html>
