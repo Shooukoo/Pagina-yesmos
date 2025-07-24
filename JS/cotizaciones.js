@@ -40,24 +40,67 @@ const elements = {
 }
 
 // Función para calcular precio con redondeo y descuentos
-function calcularPrecioFinal(precioOriginal) {
+function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
+    const redondearCentena = (precio) => Math.floor(precio / 100) * 100
+
+    const nombre = nombreProducto.toLowerCase()
+    const cat = categoria.trim().toUpperCase() // ← CORREGIDO AQUÍ
+
+    // TAPAS
+    if (cat === "TAPAS") {
+        const precioFinal = nombre.includes("iphone") || nombre.includes("ip")
+            ? 900
+            : 550
+
+        return {
+            original: precioOriginal,
+            redondeado: redondearCentena(precioOriginal),
+            incremento: 0,
+            conIncremento: precioFinal,
+            descuentoAdicional: 100,
+            final: precioFinal,
+            totalDescuento: 100,
+        }
+    }
+
+    // Categorías con precios fijos
+    const categoriasFijas = {
+        "BANDEJAS SIM": 350,
+        "FLEX INTERCONEXION": 350,
+        "CENTRO DE CARGA": 350,
+        "LENTES": 350,
+        "FLEX DE CARGA": 550, // FLEX DE CARGA actualizado
+    }
+
+    if (categoriasFijas[cat]) {
+        const precioFinal = categoriasFijas[cat]
+
+        return {
+            original: precioOriginal,
+            redondeado: redondearCentena(precioOriginal),
+            incremento: 0,
+            conIncremento: precioFinal,
+            descuentoAdicional: 100,
+            final: precioFinal,
+            totalDescuento: 100,
+        }
+    }
+
+    // Lógica general con redondeo e incremento
     const centena = Math.floor(precioOriginal / 100) * 100
     const siguienteCentena = centena + 100
     const mitadCentena = centena + 50
 
-    let precioRedondeado
-    let incremento
-
-    // Determinar si está más cerca de la centena o de la mitad
     const distanciaCentena = Math.abs(precioOriginal - siguienteCentena)
     const distanciaMitad = Math.abs(precioOriginal - mitadCentena)
 
+    let precioRedondeado
+    let incremento
+
     if (distanciaCentena <= distanciaMitad) {
-        // Más cerca de la centena
         precioRedondeado = siguienteCentena
         incremento = 100
     } else {
-        // Más cerca de la mitad
         precioRedondeado = mitadCentena
         incremento = 150
     }
@@ -224,7 +267,7 @@ function filtrarProductos() {
     elements.productsList.innerHTML = productosFiltrados
         .map((producto) => {
             const enCotizacion = cotizacion.find((item) => item.producto.Nombre === producto.Nombre)
-            const precios = calcularPrecioFinal(producto["Precio Venta"])
+            const precios = calcularPrecioFinal(producto["Precio Venta"],producto["Referencia"], producto["Nombre"])
 
             return `
             <div class="product-item ${enCotizacion ? "in-quote" : ""}" data-id="${producto.Nombre}">
@@ -311,7 +354,7 @@ function agregarACotizacion(nombreProducto) {
             producto: producto,
             categoria: categoriaActiva,
             cantidad: 1,
-            precios: calcularPrecioFinal(producto["Precio Venta"]),
+            precios: calcularPrecioFinal(producto["Precio Venta"],producto["Referencia"], producto["Nombre"]),
         })
     }
 
@@ -605,7 +648,7 @@ function enviarWhatsApp() {
     let totalFinal = 0
 
     const detallesProductos = cotizacion.map((item) => {
-        const precios = calcularPrecioFinal(item.producto["Precio Venta"])
+        const precios = calcularPrecioFinal(item.producto["Precio Venta"],item.producto["Referencia"], item.producto["Nombre"])
         const subtotalProducto = precios.final * item.cantidad
         const descuentoProducto = precios.totalDescuento * item.cantidad
 
@@ -624,30 +667,30 @@ function enviarWhatsApp() {
 
     const mensaje = `🔧 *COTIZACIÓN DE REPARACIÓN - EQUIPOS MÓVILES*
 
-📅 *Fecha:* ${new Date().toLocaleDateString("es-ES")}
-🆔 *Cotización #:* COT-${Date.now().toString().slice(-6)}
+*Fecha:* ${new Date().toLocaleDateString("es-ES")}
+*Cotización #:* COT-${Date.now().toString().slice(-6)}
 
-📱 *SERVICIOS SOLICITADOS:*
+*SERVICIOS SOLICITADOS:*
 ${detallesProductos
             .map((item) => {
                 const marca = extraerMarca(item.producto.Nombre)
                 const modelo = item.producto.Nombre.replace(marca, "").trim()
 
                 return `• ${item.categoria}
-📱 ${modelo} (${marca})
-📦 Cantidad: ${item.cantidad}
-🔄 Precio ajustado: $${item.precios.final.toLocaleString()}
-🎯 Descuento por unidad: $${item.precios.totalDescuento.toLocaleString()}
-💵 Subtotal: $${item.subtotalProducto.toLocaleString()}`
+${modelo} (${marca})
+Cantidad: ${item.cantidad}
+Precio ajustado: $${item.precios.final.toLocaleString()}
+Descuento por unidad: $${item.precios.totalDescuento.toLocaleString()}
+Subtotal: $${item.subtotalProducto.toLocaleString()}`
             })
             .join("\n\n")}
 
-💰 *RESUMEN DE TOTALES:*
-📊 Subtotal: $${subtotalSinDescuento.toLocaleString()}
-🎁 Descuento total: -$${totalDescuentos.toLocaleString()}
-✅ *TOTAL A PAGAR: $${totalFinal.toLocaleString()}*
+*RESUMEN DE TOTALES:*
+Subtotal: $${subtotalSinDescuento.toLocaleString()}
+Descuento total: -$${totalDescuentos.toLocaleString()}
+*TOTAL A PAGAR: $${totalFinal.toLocaleString()}*
 
-📝 *Nota:* Esta cotización tiene validez de 30 días calendario.
+*Nota:* Esta cotización tiene validez de 30 días calendario.
 
 ¿Podrías confirmar la disponibilidad y agendar la reparación? ¡Gracias! 😊`
 
