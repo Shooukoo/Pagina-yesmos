@@ -85,7 +85,7 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
         }
     }
 
-    // 🔍 Si ya es centena exacta, solo sumar 100
+    // Si ya es centena exacta, solo sumar 100
     if (precioOriginal % 100 === 0) {
         const precioFinal = precioOriginal + 200
 
