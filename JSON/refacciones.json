@@ -35,7 +35,7 @@
         "Precio Compra": 70,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -65,7 +65,7 @@
         "Precio Compra": 75,
         "Precio Venta": 330,
         "Existencia mínimo": 0,
-        "Existencias": 7,
+        "Existencias": 6,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -115,7 +115,7 @@
         "Precio Compra": 75,
         "Precio Venta": 330,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -165,7 +165,7 @@
         "Precio Compra": 95,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -175,7 +175,7 @@
         "Precio Compra": 65,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -205,7 +205,7 @@
         "Precio Compra": 85,
         "Precio Venta": 350,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -335,7 +335,7 @@
         "Precio Compra": 40,
         "Precio Venta": 260,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -364,7 +364,7 @@
         "Proveedor": null,
         "Precio Compra": 160,
         "Precio Venta": 520,
-        "Existencia mínimo": null,
+        "Existencia mínimo": 0,
         "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
@@ -385,7 +385,7 @@
         "Precio Compra": 135,
         "Precio Venta": 500,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -395,7 +395,7 @@
         "Precio Compra": 165,
         "Precio Venta": 510,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -415,7 +415,7 @@
         "Precio Compra": 165,
         "Precio Venta": 510,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 5,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -435,7 +435,7 @@
         "Precio Compra": 115,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -445,7 +445,7 @@
         "Precio Compra": 155,
         "Precio Venta": 530,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -455,7 +455,7 @@
         "Precio Compra": 170,
         "Precio Venta": 550,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 6,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -485,7 +485,7 @@
         "Precio Compra": 190,
         "Precio Venta": 660,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -505,7 +505,7 @@
         "Precio Compra": 65,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -535,7 +535,7 @@
         "Precio Compra": 105,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -575,7 +575,7 @@
         "Precio Compra": 65,
         "Precio Venta": 340,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -585,7 +585,7 @@
         "Precio Compra": 125,
         "Precio Venta": 430,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -595,7 +595,7 @@
         "Precio Compra": 110,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -605,7 +605,7 @@
         "Precio Compra": 150,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -615,7 +615,7 @@
         "Precio Compra": 110,
         "Precio Venta": 430,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -665,7 +665,7 @@
         "Precio Compra": 65,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -705,7 +705,7 @@
         "Precio Compra": 55,
         "Precio Venta": 310,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -715,7 +715,7 @@
         "Precio Compra": 70,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -835,7 +835,7 @@
         "Precio Compra": 80,
         "Precio Venta": 340,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -865,7 +865,7 @@
         "Precio Compra": 85,
         "Precio Venta": 350,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -885,7 +885,7 @@
         "Precio Compra": 95,
         "Precio Venta": 370,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "BATERIAS"
     },
@@ -1212,7 +1212,7 @@
     {
         "Nombre": "DIS A01 CORE ORI S/M",
         "Proveedor": null,
-        "Precio Compra": 105,
+        "Precio Compra": 160,
         "Precio Venta": 380,
         "Existencia mínimo": 0,
         "Existencias": 2,
@@ -1235,7 +1235,7 @@
         "Precio Compra": 145,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1245,7 +1245,7 @@
         "Precio Compra": 170,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1265,7 +1265,7 @@
         "Precio Compra": 150,
         "Precio Venta": 540,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 13,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1275,7 +1275,7 @@
         "Precio Compra": 145,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1305,7 +1305,7 @@
         "Precio Compra": 180,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1315,17 +1315,7 @@
         "Precio Compra": 205,
         "Precio Venta": 450,
         "Existencia mínimo": 0,
-        "Existencias": 2,
-        "Pedidos": 0,
-        "Referencia": "DISPLAY"
-    },
-    {
-        "Nombre": "DIS A13 5G/A04S ORI",
-        "Proveedor": null,
-        "Precio Compra": 180,
-        "Precio Venta": 470,
-        "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1365,7 +1355,7 @@
         "Precio Compra": 190,
         "Precio Venta": 550,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1375,7 +1365,7 @@
         "Precio Compra": 135,
         "Precio Venta": 370,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1395,7 +1385,7 @@
         "Precio Compra": 240,
         "Precio Venta": 580,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1405,7 +1395,7 @@
         "Precio Compra": 190,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1442,10 +1432,10 @@
     {
         "Nombre": "DIS A25 INCELL C/M",
         "Proveedor": null,
-        "Precio Compra": 225,
-        "Precio Venta": 550,
+        "Precio Compra": 240,
+        "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1465,7 +1455,7 @@
         "Precio Compra": 215,
         "Precio Venta": 540,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1505,7 +1495,7 @@
         "Precio Compra": 550,
         "Precio Venta": 1200,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1515,7 +1505,7 @@
         "Precio Compra": 205,
         "Precio Venta": 520,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1545,7 +1535,7 @@
         "Precio Compra": 310,
         "Precio Venta": 720,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1555,7 +1545,7 @@
         "Precio Compra": 455,
         "Precio Venta": 1050,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1572,10 +1562,10 @@
     {
         "Nombre": "DIS A70 INCELL C/M",
         "Proveedor": null,
-        "Precio Compra": 225,
-        "Precio Venta": 550,
+        "Precio Compra": 230,
+        "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1605,7 +1595,7 @@
         "Precio Compra": 630,
         "Precio Venta": 1400,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1632,8 +1622,8 @@
     {
         "Nombre": "DIS A7S 2020 / ZTE V Smart / ZTE V20 Smart ORI",
         "Proveedor": null,
-        "Precio Compra": 185,
-        "Precio Venta": 470,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
         "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
@@ -1652,20 +1642,20 @@
     {
         "Nombre": "DIS AXON 60 LITE ORI",
         "Proveedor": null,
-        "Precio Compra": 185,
+        "Precio Compra": 210,
         "Precio Venta": 520,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS E13 ORI",
         "Proveedor": null,
-        "Precio Compra": 150,
-        "Precio Venta": 400,
+        "Precio Compra": 155,
+        "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 5,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1675,7 +1665,7 @@
         "Precio Compra": 155,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1705,7 +1695,7 @@
         "Precio Compra": 170,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1715,7 +1705,7 @@
         "Precio Compra": 230,
         "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1735,7 +1725,7 @@
         "Precio Compra": 175,
         "Precio Venta": 450,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1745,7 +1735,7 @@
         "Precio Compra": 170,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1765,7 +1755,7 @@
         "Precio Compra": 155,
         "Precio Venta": 410,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1775,7 +1765,7 @@
         "Precio Compra": 160,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1815,7 +1805,7 @@
         "Precio Compra": 213,
         "Precio Venta": 530,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1845,7 +1835,7 @@
         "Precio Compra": 340,
         "Precio Venta": 780,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1905,7 +1895,7 @@
         "Precio Compra": 180,
         "Precio Venta": 600,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1915,7 +1905,7 @@
         "Precio Compra": 155,
         "Precio Venta": 410,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1955,7 +1945,7 @@
         "Precio Compra": 245,
         "Precio Venta": 590,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1972,10 +1962,20 @@
     {
         "Nombre": "DIS IP 11 INCELL TK",
         "Proveedor": null,
-        "Precio Compra": 199,
+        "Precio Compra": 205,
         "Precio Venta": 630,
         "Existencia mínimo": 0,
-        "Existencias": 10,
+        "Existencias": 8,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 11 PRO INCELL JK",
+        "Proveedor": null,
+        "Precio Compra": 335,
+        "Precio Venta": 800,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -1995,27 +1995,27 @@
         "Precio Compra": 350,
         "Precio Venta": 820,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS IP 11 PRO MAX INCELL TIANMA",
         "Proveedor": null,
-        "Precio Compra": 245,
-        "Precio Venta": 640,
+        "Precio Compra": 300,
+        "Precio Venta": 380,
         "Existencia mínimo": 0,
-        "Existencias": 0,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS IP 12 / 12 PRO NEGRO  INCELL TIANMA",
         "Proveedor": null,
-        "Precio Compra": 230,
-        "Precio Venta": 700,
+        "Precio Compra": 314,
+        "Precio Venta": 760,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 8,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2024,8 +2024,8 @@
         "Proveedor": null,
         "Precio Compra": 487,
         "Precio Venta": 1660,
-        "Existencia mínimo": null,
-        "Existencias": 2,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2045,7 +2045,7 @@
         "Precio Compra": 376,
         "Precio Venta": 1160,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 9,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2065,7 +2065,7 @@
         "Precio Compra": 470,
         "Precio Venta": 1050,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2075,7 +2075,7 @@
         "Precio Compra": 322,
         "Precio Venta": 900,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2095,7 +2095,7 @@
         "Precio Compra": 606,
         "Precio Venta": 1680,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 8,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2135,7 +2135,7 @@
         "Precio Compra": 335,
         "Precio Venta": 800,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2145,7 +2145,7 @@
         "Precio Compra": 579,
         "Precio Venta": 2100,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2156,6 +2156,26 @@
         "Precio Venta": 2000,
         "Existencia mínimo": 0,
         "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 16 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 741,
+        "Precio Venta": 4000,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS IP 16 PRO MAX INCELL",
+        "Proveedor": null,
+        "Precio Compra": 1477,
+        "Precio Venta": 6400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2245,7 +2265,7 @@
         "Precio Compra": 160,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2255,7 +2275,7 @@
         "Precio Compra": 130,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2272,20 +2292,20 @@
     {
         "Nombre": "Dis IP 7G Negro TM",
         "Proveedor": null,
-        "Precio Compra": 160,
+        "Precio Compra": 130,
         "Precio Venta": 450,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 5,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "Dis IP 8 PLUS Blanco TM",
         "Proveedor": null,
-        "Precio Compra": 190,
-        "Precio Venta": 480,
+        "Precio Compra": 145,
+        "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2295,7 +2315,7 @@
         "Precio Compra": 145,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2315,7 +2335,7 @@
         "Precio Compra": 160,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2325,7 +2345,7 @@
         "Precio Compra": 185,
         "Precio Venta": 600,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2354,7 +2374,7 @@
         "Proveedor": null,
         "Precio Compra": 310,
         "Precio Venta": 720,
-        "Existencia mínimo": null,
+        "Existencia mínimo": 0,
         "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
@@ -2362,10 +2382,10 @@
     {
         "Nombre": "Dis IP XR INCELL TIANMA",
         "Proveedor": null,
-        "Precio Compra": 250,
-        "Precio Venta": 660,
+        "Precio Compra": 256,
+        "Precio Venta": 700,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2375,7 +2395,7 @@
         "Precio Compra": 310,
         "Precio Venta": 760,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2385,7 +2405,7 @@
         "Precio Compra": 205,
         "Precio Venta": 510,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2405,7 +2425,7 @@
         "Precio Compra": 290,
         "Precio Venta": 680,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2414,8 +2434,8 @@
         "Proveedor": null,
         "Precio Compra": 335,
         "Precio Venta": 770,
-        "Existencia mínimo": null,
-        "Existencias": 2,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2445,7 +2465,7 @@
         "Precio Compra": 135,
         "Precio Venta": 360,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2585,7 +2605,7 @@
         "Precio Compra": 160,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2645,7 +2665,7 @@
         "Precio Compra": 165,
         "Precio Venta": 430,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2655,7 +2675,7 @@
         "Precio Compra": 175,
         "Precio Venta": 450,
         "Existencia mínimo": 0,
-        "Existencias": 7,
+        "Existencias": 6,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2665,7 +2685,7 @@
         "Precio Compra": 175,
         "Precio Venta": 450,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2695,7 +2715,7 @@
         "Precio Compra": 180,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2715,7 +2735,7 @@
         "Precio Compra": 160,
         "Precio Venta": 430,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2725,7 +2745,7 @@
         "Precio Compra": 195,
         "Precio Venta": 530,
         "Existencia mínimo": 0,
-        "Existencias": 9,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2745,17 +2765,17 @@
         "Precio Compra": 195,
         "Precio Venta": 600,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS MOTO G24/G04/G14/G04S/G24/E14 POWER",
         "Proveedor": null,
-        "Precio Compra": 185,
-        "Precio Venta": 470,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 6,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2792,8 +2812,8 @@
     {
         "Nombre": "DIS MOTO G53 5G ORI",
         "Proveedor": null,
-        "Precio Compra": 180,
-        "Precio Venta": 480,
+        "Precio Compra": 190,
+        "Precio Venta": 500,
         "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
@@ -2815,7 +2835,7 @@
         "Precio Compra": 225,
         "Precio Venta": 550,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2845,7 +2865,7 @@
         "Precio Compra": 155,
         "Precio Venta": 420,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2865,7 +2885,7 @@
         "Precio Compra": 140,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2945,7 +2965,7 @@
         "Precio Compra": 185,
         "Precio Venta": 470,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -2965,7 +2985,7 @@
         "Precio Compra": 145,
         "Precio Venta": 390,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3045,7 +3065,7 @@
         "Precio Compra": 190,
         "Precio Venta": 500,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3055,7 +3075,7 @@
         "Precio Compra": 335,
         "Precio Venta": 770,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3105,7 +3125,7 @@
         "Precio Compra": 180,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3115,7 +3135,7 @@
         "Precio Compra": 135,
         "Precio Venta": 400,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3145,7 +3165,7 @@
         "Precio Compra": 192,
         "Precio Venta": 490,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3155,17 +3175,17 @@
         "Precio Compra": 190,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 0,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS OPPO A57/A17/A38/A77/A58  5G/A78 5G FULL ORI",
         "Proveedor": null,
-        "Precio Compra": 168,
+        "Precio Compra": 130,
         "Precio Venta": 520,
         "Existencia mínimo": 0,
-        "Existencias": 12,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3190,12 +3210,22 @@
         "Referencia": "DISPLAY"
     },
     {
+        "Nombre": "DIS OPPO A94 ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 500,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
         "Nombre": "Dis P20 LITE ORI",
         "Proveedor": null,
-        "Precio Compra": 160,
-        "Precio Venta": 450,
+        "Precio Compra": 200,
+        "Precio Venta": 500,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3205,7 +3235,7 @@
         "Precio Compra": 240,
         "Precio Venta": 580,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3222,10 +3252,10 @@
     {
         "Nombre": "Dis P30 LITE/NOVA 4E COF",
         "Proveedor": null,
-        "Precio Compra": 240,
-        "Precio Venta": 620,
+        "Precio Compra": 225,
+        "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3245,7 +3275,7 @@
         "Precio Compra": 265,
         "Precio Venta": 640,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3305,7 +3335,7 @@
         "Precio Compra": 190,
         "Precio Venta": 660,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3315,7 +3345,7 @@
         "Precio Compra": 605,
         "Precio Venta": 1310,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3440,6 +3470,16 @@
         "Referencia": "DISPLAY"
     },
     {
+        "Nombre": "DIS REDMI 13C/POCO C65 ORI",
+        "Proveedor": null,
+        "Precio Compra": 140,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
         "Nombre": "DIS REDMI 7 NEGRO ORI",
         "Proveedor": null,
         "Precio Compra": 145,
@@ -3465,7 +3505,7 @@
         "Precio Compra": 150,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3475,17 +3515,17 @@
         "Precio Compra": 184,
         "Precio Venta": 470,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS REDMI A2/A2 PLUS/A1/A1 PLUS ORI",
         "Proveedor": null,
-        "Precio Compra": 170,
-        "Precio Venta": 440,
+        "Precio Compra": 180,
+        "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3495,7 +3535,7 @@
         "Precio Compra": 185,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3535,7 +3575,7 @@
         "Precio Compra": 180,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3585,7 +3625,7 @@
         "Precio Compra": 190,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3595,7 +3635,7 @@
         "Precio Compra": 785,
         "Precio Venta": 1670,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3605,7 +3645,7 @@
         "Precio Compra": 180,
         "Precio Venta": 500,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3625,17 +3665,17 @@
         "Precio Compra": 165,
         "Precio Venta": 460,
         "Existencia mínimo": 0,
-        "Existencias": 4,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
     {
         "Nombre": "DIS SAM A05S ORI C/M",
         "Proveedor": null,
-        "Precio Compra": 185,
-        "Precio Venta": 470,
+        "Precio Compra": 255,
+        "Precio Venta": 620,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3645,7 +3685,7 @@
         "Precio Compra": 170,
         "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3655,7 +3695,7 @@
         "Precio Compra": 165,
         "Precio Venta": 430,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3672,10 +3712,10 @@
     {
         "Nombre": "DIS SAM A14 5G BIG ORI",
         "Proveedor": null,
-        "Precio Compra": 165,
-        "Precio Venta": 480,
+        "Precio Compra": 210,
+        "Precio Venta": 520,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3686,6 +3726,16 @@
         "Precio Venta": 1440,
         "Existencia mínimo": 0,
         "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
+        "Nombre": "DIS SAM A16 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 200,
+        "Precio Venta": 640,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3705,7 +3755,7 @@
         "Precio Compra": 230,
         "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 0,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3730,6 +3780,16 @@
         "Referencia": "DISPLAY"
     },
     {
+        "Nombre": "DIS SAM A24/A25 INCELL",
+        "Proveedor": null,
+        "Precio Compra": 185,
+        "Precio Venta": 480,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "DISPLAY"
+    },
+    {
         "Nombre": "DIS SAM A30S OLED C/M",
         "Proveedor": null,
         "Precio Compra": 529,
@@ -3745,7 +3805,7 @@
         "Precio Compra": 230,
         "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3764,7 +3824,7 @@
         "Proveedor": null,
         "Precio Compra": 215,
         "Precio Venta": 540,
-        "Existencia mínimo": null,
+        "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
@@ -3775,7 +3835,7 @@
         "Precio Compra": 205,
         "Precio Venta": 510,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3785,7 +3845,7 @@
         "Precio Compra": 645,
         "Precio Venta": 1290,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3814,8 +3874,8 @@
         "Proveedor": null,
         "Precio Compra": 210,
         "Precio Venta": 520,
-        "Existencia mínimo": null,
-        "Existencias": 1,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3825,7 +3885,7 @@
         "Precio Compra": 335,
         "Precio Venta": 800,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3865,7 +3925,7 @@
         "Precio Compra": 200,
         "Precio Venta": 520,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3880,12 +3940,12 @@
         "Referencia": "DISPLAY"
     },
     {
-        "Nombre": "DIS Y11S / Y20 / Y20S / Y20i / Y15S ORI",
+        "Nombre": "DIS Y11S / Y20 / Y20S / Y20i / Y15S/ Y01 ORI",
         "Proveedor": null,
         "Precio Compra": 170,
         "Precio Venta": 440,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3945,7 +4005,7 @@
         "Precio Compra": 140,
         "Precio Venta": 380,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3955,7 +4015,7 @@
         "Precio Compra": 150,
         "Precio Venta": 470,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -3965,7 +4025,7 @@
         "Precio Compra": 190,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4042,10 +4102,10 @@
     {
         "Nombre": "DIS Y9 PRIME 2019/HONOR 9X COF",
         "Proveedor": null,
-        "Precio Compra": 270,
-        "Precio Venta": 640,
+        "Precio Compra": 220,
+        "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4092,10 +4152,10 @@
     {
         "Nombre": "DIS Y9S/HONOR 9X ORI",
         "Proveedor": null,
-        "Precio Compra": 276,
-        "Precio Venta": 640,
+        "Precio Compra": 250,
+        "Precio Venta": 600,
         "Existencia mínimo": 0,
-        "Existencias": 0,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4132,10 +4192,10 @@
     {
         "Nombre": "DIS ZTE A51/A71 ORI",
         "Proveedor": null,
-        "Precio Compra": 218,
-        "Precio Venta": 540,
+        "Precio Compra": 190,
+        "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4175,7 +4235,7 @@
         "Precio Compra": 230,
         "Precio Venta": 560,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4205,7 +4265,7 @@
         "Precio Compra": 190,
         "Precio Venta": 480,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "DISPLAY"
     },
@@ -4235,7 +4295,7 @@
         "Precio Compra": 35,
         "Precio Venta": 190,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "FLEX DE CARGA"
     },
@@ -4285,7 +4345,7 @@
         "Precio Compra": 30,
         "Precio Venta": 180,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 2,
         "Pedidos": 0,
         "Referencia": "FLEX DE CARGA"
     },
@@ -4385,7 +4445,7 @@
         "Precio Compra": 35,
         "Precio Venta": 190,
         "Existencia mínimo": 0,
-        "Existencias": 3,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "FLEX DE CARGA"
     },
@@ -4555,7 +4615,7 @@
         "Precio Compra": 30,
         "Precio Venta": 200,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "FLEX DE CARGA"
     },
@@ -6015,7 +6075,7 @@
         "Precio Compra": 30,
         "Precio Venta": 170,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "ACCESORIOS"
     },
@@ -6035,7 +6095,7 @@
         "Precio Compra": 40,
         "Precio Venta": 180,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "ACCESORIOS"
     },
@@ -6045,7 +6105,7 @@
         "Precio Compra": 25,
         "Precio Venta": 150,
         "Existencia mínimo": 0,
-        "Existencias": 5,
+        "Existencias": 4,
         "Pedidos": 0,
         "Referencia": "ACCESORIOS"
     },
@@ -6055,9 +6115,9 @@
         "Precio Compra": 0.01,
         "Precio Venta": 20,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 94,
         "Pedidos": 0,
-        "Referencia": null
+        "Referencia": "ACCESORIOS"
     },
     {
         "Nombre": "SILICONE MAT 502 TAPETE TERMICO",
@@ -6065,7 +6125,7 @@
         "Precio Compra": 60,
         "Precio Venta": 320,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "ACCESORIOS"
     },
@@ -6620,6 +6680,26 @@
         "Referencia": "BANDEJAS SIM"
     },
     {
+        "Nombre": "TAPA 14 PRO MAX NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA 15 PRO BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
         "Nombre": "TAPA A12 AZUL",
         "Proveedor": null,
         "Precio Compra": 35,
@@ -6775,15 +6855,15 @@
         "Precio Compra": 40,
         "Precio Venta": 200,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
     {
-        "Nombre": "TAPA IP 11 LILA",
+        "Nombre": "TAPA IP 11 MORADA",
         "Proveedor": null,
-        "Precio Compra": 35,
-        "Precio Venta": 190,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
         "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
@@ -6805,7 +6885,7 @@
         "Precio Compra": 65,
         "Precio Venta": 250,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -6824,8 +6904,8 @@
         "Proveedor": null,
         "Precio Compra": 65,
         "Precio Venta": 250,
-        "Existencia mínimo": null,
-        "Existencias": 1,
+        "Existencia mínimo": 0,
+        "Existencias": 3,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -6870,7 +6950,7 @@
         "Referencia": "TAPAS"
     },
     {
-        "Nombre": "TAPA IP 12 MORADO",
+        "Nombre": "TAPA IP 12 MORADA",
         "Proveedor": null,
         "Precio Compra": 35,
         "Precio Venta": 190,
@@ -6882,8 +6962,8 @@
     {
         "Nombre": "TAPA IP 12 NEGRO",
         "Proveedor": null,
-        "Precio Compra": 35,
-        "Precio Venta": 190,
+        "Precio Compra": 40,
+        "Precio Venta": 200,
         "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
@@ -6900,7 +6980,47 @@
         "Referencia": "TAPAS"
     },
     {
+        "Nombre": "TAPA IP 12 PRO MAX AZUL",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO MAX BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
         "Nombre": "TAPA IP 12 PRO MAX BLANCO",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 4,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO MAX DORADA",
+        "Proveedor": null,
+        "Precio Compra": 65,
+        "Precio Venta": 270,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 12 PRO MAX NEGRA",
         "Proveedor": null,
         "Precio Compra": 65,
         "Precio Venta": 270,
@@ -6960,10 +7080,100 @@
         "Referencia": "TAPAS"
     },
     {
+        "Nombre": "TAPA IP 13 PRO AZUL",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO DORADA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
         "Nombre": "TAPA IP 13 PRO MAX AZUL",
         "Proveedor": null,
         "Precio Compra": 70,
         "Precio Venta": 260,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO MAX BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO MAX DORADA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO MAX NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO MAX VERDE",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 13 PRO VERDE",
+        "Proveedor": null,
+        "Precio Compra": 70,
+        "Precio Venta": 280,
         "Existencia mínimo": 0,
         "Existencias": 2,
         "Pedidos": 0,
@@ -6980,12 +7190,212 @@
         "Referencia": "TAPAS"
     },
     {
+        "Nombre": "TAPA IP 14 AZUL",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 MORADA",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO DORADA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO MAX BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO MAX DORADA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO MAX MORADA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO MORADA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 PRO NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 75,
+        "Precio Venta": 350,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 14 ROJA",
+        "Proveedor": null,
+        "Precio Compra": 50,
+        "Precio Venta": 300,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO AZUL",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO GRIS",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO MAX AZUL",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO MAX BLANCA",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO MAX GRIS",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO MAX NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP 15 PRO NEGRA",
+        "Proveedor": null,
+        "Precio Compra": 90,
+        "Precio Venta": 400,
+        "Existencia mínimo": 0,
+        "Existencias": 1,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
         "Nombre": "TAPA IP 8 ROJO",
         "Proveedor": null,
         "Precio Compra": 25,
         "Precio Venta": 170,
         "Existencia mínimo": 0,
         "Existencias": 2,
+        "Pedidos": 0,
+        "Referencia": "TAPAS"
+    },
+    {
+        "Nombre": "TAPA IP X BLACA",
+        "Proveedor": null,
+        "Precio Compra": 35,
+        "Precio Venta": 200,
+        "Existencia mínimo": 0,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -7095,7 +7505,7 @@
         "Precio Compra": 55,
         "Precio Venta": 230,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -7145,7 +7555,7 @@
         "Precio Compra": 80,
         "Precio Venta": 280,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -7155,7 +7565,7 @@
         "Precio Compra": 65,
         "Precio Venta": 250,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -7165,7 +7575,7 @@
         "Precio Compra": 65,
         "Precio Venta": 250,
         "Existencia mínimo": 0,
-        "Existencias": 1,
+        "Existencias": 0,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
@@ -7205,7 +7615,7 @@
         "Precio Compra": 85,
         "Precio Venta": 290,
         "Existencia mínimo": 0,
-        "Existencias": 2,
+        "Existencias": 1,
         "Pedidos": 0,
         "Referencia": "TAPAS"
     },
