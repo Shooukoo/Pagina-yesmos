@@ -39,12 +39,11 @@ const elements = {
     printBtn: document.getElementById("printBtn"),
 }
 
-// Función para calcular precio con redondeo y descuentos
 function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
     const redondearCentena = (precio) => Math.floor(precio / 100) * 100
 
     const nombre = nombreProducto.toLowerCase()
-    const cat = categoria.trim().toUpperCase() // ← CORREGIDO AQUÍ
+    const cat = categoria.trim().toUpperCase()
 
     // TAPAS
     if (cat === "TAPAS") {
@@ -69,7 +68,7 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
         "FLEX INTERCONEXION": 350,
         "CENTRO DE CARGA": 350,
         "LENTES": 350,
-        "FLEX DE CARGA": 550, // FLEX DE CARGA actualizado
+        "FLEX DE CARGA": 550,
     }
 
     if (categoriasFijas[cat]) {
@@ -80,6 +79,21 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
             redondeado: redondearCentena(precioOriginal),
             incremento: 0,
             conIncremento: precioFinal,
+            descuentoAdicional: 100,
+            final: precioFinal,
+            totalDescuento: 100,
+        }
+    }
+
+    // 🔍 Si ya es centena exacta, solo sumar 100
+    if (precioOriginal % 100 === 0) {
+        const precioFinal = precioOriginal + 200
+
+        return {
+            original: precioOriginal,
+            redondeado: precioOriginal,
+            incremento: 0,
+            conIncremento: precioOriginal,
             descuentoAdicional: 100,
             final: precioFinal,
             totalDescuento: 100,
@@ -119,6 +133,7 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
         totalDescuento: descuentoAdicional,
     }
 }
+
 
 // Inicialización
 document.addEventListener("DOMContentLoaded", async () => {
