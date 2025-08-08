@@ -37,11 +37,41 @@ const elements = {
     whatsappBtn: document.getElementById("whatsappBtn"),
     downloadBtn: document.getElementById("downloadBtn"),
     printBtn: document.getElementById("printBtn"),
+    // Elementos móviles - CORREGIDOS
+    mobileCart: document.getElementById("mobileCart"),
+    mobileCartBtn: document.getElementById("mobileCartBtn"),
+    cartBadge: document.getElementById("cartBadge"),
+    cartItemsCount: document.getElementById("cartItemsCount"),
+    cartTotal: document.getElementById("cartTotal"),
+    modalOverlay: document.getElementById("modalOverlay"),
+    modalContainer: document.getElementById("modalContainer"),
+    modalClose: document.getElementById("modalClose"),
+    modalEmptyState: document.getElementById("modalEmptyState"),
+    modalQuoteItems: document.getElementById("modalQuoteItems"),
+    modalQuoteList: document.getElementById("modalQuoteList"),
+    modalActions: document.getElementById("modalActions"),
+    modalSubtotal: document.getElementById("modalSubtotal"),
+    modalDiscount: document.getElementById("modalDiscount"),
+    modalDiscountRow: document.getElementById("modalDiscountRow"),
+    modalTotalAmount: document.getElementById("modalTotalAmount"), // CORREGIDO
+    modalWhatsappBtn: document.getElementById("modalWhatsappBtn"), // CORREGIDO
+    modalDownloadBtn: document.getElementById("modalDownloadBtn"), // CORREGIDO
+    modalPrintBtn: document.getElementById("modalPrintBtn"), // CORREGIDO
+}
+
+// Función para detectar si estamos en vista móvil
+function esMobile() {
+    return window.innerWidth < 1024
+}
+
+// Función para manejar cambios de tamaño de ventana
+function manejarCambioTamano() {
+    // Actualizar carrito móvil según el tamaño de pantalla
+    actualizarCarritoMovil()
 }
 
 function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
     const redondearCentena = (precio) => Math.floor(precio / 100) * 100
-
     const nombre = nombreProducto.toLowerCase()
     const cat = categoria.trim().toUpperCase()
 
@@ -50,7 +80,6 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
         const precioFinal = nombre.includes("iphone") || nombre.includes("ip")
             ? 900
             : 550
-
         return {
             original: precioOriginal,
             redondeado: redondearCentena(precioOriginal),
@@ -73,7 +102,6 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
 
     if (categoriasFijas[cat]) {
         const precioFinal = categoriasFijas[cat]
-
         return {
             original: precioOriginal,
             redondeado: redondearCentena(precioOriginal),
@@ -88,7 +116,6 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
     // Si ya es centena exacta, solo sumar 100
     if (precioOriginal % 100 === 0) {
         const precioFinal = precioOriginal + 200
-
         return {
             original: precioOriginal,
             redondeado: precioOriginal,
@@ -104,7 +131,6 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
     const centena = Math.floor(precioOriginal / 100) * 100
     const siguienteCentena = centena + 100
     const mitadCentena = centena + 50
-
     const distanciaCentena = Math.abs(precioOriginal - siguienteCentena)
     const distanciaMitad = Math.abs(precioOriginal - mitadCentena)
 
@@ -134,7 +160,6 @@ function calcularPrecioFinal(precioOriginal, categoria, nombreProducto) {
     }
 }
 
-
 // Inicialización
 document.addEventListener("DOMContentLoaded", async () => {
     await cargarRefacciones()
@@ -142,6 +167,9 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderizarCategorias()
     actualizarFiltroMarcas()
     elements.loading.style.display = "none"
+    
+    // Agregar listener para cambios de tamaño de ventana
+    window.addEventListener('resize', manejarCambioTamano)
 })
 
 // Cargar datos de refacciones
@@ -149,16 +177,13 @@ async function cargarRefacciones() {
     try {
         // Cargar desde archivo JSON en carpeta separada
         const response = await fetch("../JSON/refacciones.json")
-
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`)
         }
-
         refacciones = await response.json()
         console.log("Refacciones cargadas:", refacciones.length)
     } catch (error) {
         console.error("Error cargando refacciones:", error)
-
         // Mostrar mensaje de error al usuario
         elements.loading.innerHTML = `
             <div class="loading-error">
@@ -171,7 +196,6 @@ async function cargarRefacciones() {
                 </button>
             </div>
         `
-
         // Datos de fallback mínimos para desarrollo
         refacciones = [
             {
@@ -196,19 +220,104 @@ function inicializarEventListeners() {
     elements.whatsappBtn.addEventListener("click", enviarWhatsApp)
     elements.downloadBtn.addEventListener("click", descargarCotizacion)
     elements.printBtn.addEventListener("click", imprimirCotizacion)
+    
+    // Event listeners para carrito móvil
+    setupMobileCartListeners()
+}
+
+// Configurar event listeners del carrito móvil
+function setupMobileCartListeners() {
+    console.log("Configurando event listeners del carrito móvil...") // Debug
+    
+    if (elements.mobileCartBtn) {
+        elements.mobileCartBtn.addEventListener("click", abrirModal)
+        console.log("✅ Event listener agregado a mobileCartBtn") // Debug
+    } else {
+        console.warn("❌ No se encontró mobileCartBtn") // Debug
+    }
+
+    if (elements.modalOverlay) {
+        elements.modalOverlay.addEventListener("click", (e) => {
+            if (e.target === elements.modalOverlay) {
+                cerrarModal()
+            }
+        })
+        console.log("✅ Event listener agregado a modalOverlay") // Debug
+    } else {
+        console.warn("❌ No se encontró modalOverlay") // Debug
+    }
+
+    if (elements.modalClose) {
+        elements.modalClose.addEventListener("click", cerrarModal)
+        console.log("✅ Event listener agregado a modalClose") // Debug
+    } else {
+        console.warn("❌ No se encontró modalClose") // Debug
+    }
+
+    if (elements.modalWhatsappBtn) {
+        elements.modalWhatsappBtn.addEventListener("click", (e) => {
+            console.log("🔄 Botón WhatsApp del modal clickeado") // Debug
+            e.preventDefault()
+            enviarWhatsApp()
+            cerrarModal()
+        })
+        console.log("✅ Event listener agregado a modalWhatsappBtn") // Debug
+    } else {
+        console.warn("❌ No se encontró modalWhatsappBtn") // Debug
+    }
+
+    if (elements.modalDownloadBtn) {
+        elements.modalDownloadBtn.addEventListener("click", (e) => {
+            console.log("🔄 Botón Download del modal clickeado") // Debug
+            e.preventDefault()
+            descargarCotizacion()
+            cerrarModal()
+        })
+        console.log("✅ Event listener agregado a modalDownloadBtn") // Debug
+    } else {
+        console.warn("❌ No se encontró modalDownloadBtn") // Debug
+    }
+
+    if (elements.modalPrintBtn) {
+        elements.modalPrintBtn.addEventListener("click", (e) => {
+            console.log("🔄 Botón Print del modal clickeado") // Debug
+            e.preventDefault()
+            imprimirCotizacion()
+            cerrarModal()
+        })
+        console.log("✅ Event listener agregado a modalPrintBtn") // Debug
+    } else {
+        console.warn("❌ No se encontró modalPrintBtn") // Debug
+    }
+
+    // Cerrar modal con tecla Escape
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") {
+            cerrarModal()
+        }
+    })
+
+    // Prevenir scroll del body cuando el modal está abierto
+    document.addEventListener("touchmove", (e) => {
+        if (elements.modalOverlay && elements.modalOverlay.classList.contains("active")) {
+            if (!e.target.closest(".modal-container")) {
+                e.preventDefault()
+            }
+        }
+    }, { passive: false })
+    
+    console.log("🎉 Configuración de event listeners del modal completada") // Debug
 }
 
 // Renderizar categorías
 function renderizarCategorias() {
     const categorias = [...new Set(refacciones.map((item) => item.Referencia).filter(Boolean))]
-
     elements.categoriesGrid.innerHTML = categorias
         .map((categoria) => {
             const config = categoriasConfig[categoria] || {
                 nombre: categoria,
                 icon: "fas fa-cog",
             }
-
             return `
             <button class="category-btn" onclick="seleccionarCategoria('${categoria}')">
                 <div class="category-icon">
@@ -224,7 +333,6 @@ function renderizarCategorias() {
 // Seleccionar categoría
 function seleccionarCategoria(categoria) {
     categoriaActiva = categoria
-
     // Actualizar UI de categorías
     document.querySelectorAll(".category-btn").forEach((btn) => {
         btn.classList.remove("active")
@@ -237,7 +345,6 @@ function seleccionarCategoria(categoria) {
         <i class="${config.icon}"></i>
         ${config.nombre}
     `
-
     filtrarProductos()
 }
 
@@ -282,8 +389,7 @@ function filtrarProductos() {
     elements.productsList.innerHTML = productosFiltrados
         .map((producto) => {
             const enCotizacion = cotizacion.find((item) => item.producto.Nombre === producto.Nombre)
-            const precios = calcularPrecioFinal(producto["Precio Venta"],producto["Referencia"], producto["Nombre"])
-
+            const precios = calcularPrecioFinal(producto["Precio Venta"], producto["Referencia"], producto["Nombre"])
             return `
             <div class="product-item ${enCotizacion ? "in-quote" : ""}" data-id="${producto.Nombre}">
                 <div class="product-content">
@@ -327,7 +433,6 @@ function filtrarProductos() {
 // Actualizar filtro de marcas
 function actualizarFiltroMarcas() {
     const marcas = [...new Set(refacciones.map((item) => extraerMarca(item.Nombre)).filter(Boolean))]
-
     elements.brandFilter.innerHTML = `
         <option value="todas">Todas las marcas</option>
         ${marcas
@@ -340,7 +445,6 @@ function actualizarFiltroMarcas() {
 // Extraer marca del nombre del producto
 function extraerMarca(nombre) {
     const marcas = ["Samsung", "iPhone", "Xiaomi", "Huawei", "Oppo", "Motorola", "LG", "Honor", "Realme", "ZTE"]
-
     for (const marca of marcas) {
         if (
             nombre.toUpperCase().includes(marca.toUpperCase()) ||
@@ -351,7 +455,6 @@ function extraerMarca(nombre) {
             return marca
         }
     }
-
     return "Otros"
 }
 
@@ -361,7 +464,6 @@ function agregarACotizacion(nombreProducto) {
     if (!producto) return
 
     const existente = cotizacion.find((item) => item.producto.Nombre === nombreProducto)
-
     if (existente) {
         existente.cantidad += 1
     } else {
@@ -369,7 +471,7 @@ function agregarACotizacion(nombreProducto) {
             producto: producto,
             categoria: categoriaActiva,
             cantidad: 1,
-            precios: calcularPrecioFinal(producto["Precio Venta"],producto["Referencia"], producto["Nombre"]),
+            precios: calcularPrecioFinal(producto["Precio Venta"], producto["Referencia"], producto["Nombre"]),
         })
     }
 
@@ -394,36 +496,93 @@ function actualizarCantidad(nombreProducto, nuevaCantidad) {
 
 // Remover de cotización
 function removerDeCotizacion(nombreProducto) {
+    // Primero removemos del array
+    cotizacion = cotizacion.filter((item) => item.producto.Nombre !== nombreProducto)
+    
+    // Luego actualizamos inmediatamente todas las vistas
+    actualizarCotizacion()
+    filtrarProductos()
+    
+    // Si hay animación en el elemento, la manejamos después
     const elemento = document.querySelector(`[data-id="${nombreProducto}"]`)
     if (elemento) {
         elemento.classList.add("removing")
-        setTimeout(() => {
-            cotizacion = cotizacion.filter((item) => item.producto.Nombre !== nombreProducto)
-            actualizarCotizacion()
-            filtrarProductos()
-        }, 300)
-    } else {
-        cotizacion = cotizacion.filter((item) => item.producto.Nombre !== nombreProducto)
-        actualizarCotizacion()
-        filtrarProductos()
     }
 }
 
 // Actualizar cotización
 function actualizarCotizacion() {
+    console.log("Actualizando cotización, productos:", cotizacion.length) // Debug
+    
     const subtotal = cotizacion.reduce((sum, item) => sum + item.precios.final * item.cantidad, 0)
     const totalDescuentos = cotizacion.reduce((sum, item) => sum + item.precios.totalDescuento * item.cantidad, 0)
     const total = subtotal - totalDescuentos
 
     // Actualizar badge del header
     if (cotizacion.length > 0) {
-        elements.serviceBadge.style.display = "block"
-        elements.serviceCount.textContent = cotizacion.length
-        elements.toggleQuote.style.display = "block"
+        if (elements.serviceBadge) elements.serviceBadge.style.display = "block"
+        if (elements.serviceCount) elements.serviceCount.textContent = cotizacion.length
+        if (elements.toggleQuote) elements.toggleQuote.style.display = "block"
     } else {
-        elements.serviceBadge.style.display = "none"
-        elements.toggleQuote.style.display = "none"
+        if (elements.serviceBadge) elements.serviceBadge.style.display = "none"
+        if (elements.toggleQuote) elements.toggleQuote.style.display = "none"
     }
+
+    // Actualizar carrito móvil PRIMERO
+    actualizarCarritoMovil()
+
+    // Actualizar contenido de cotización desktop
+    actualizarCotizacionDesktop(subtotal, totalDescuentos, total)
+
+    // Actualizar modal
+    actualizarModalCotizacion()
+}
+
+// Actualizar carrito móvil - FUNCIÓN CORREGIDA CON VERIFICACIÓN DE VIEWPORT
+function actualizarCarritoMovil() {
+    console.log("Actualizando carrito móvil, productos:", cotizacion.length) // Debug
+    
+    if (!elements.mobileCart) {
+        console.log("Elemento mobileCart no encontrado") // Debug
+        return
+    }
+
+    // VERIFICAR SI ESTAMOS EN VISTA MÓVIL
+    if (!esMobile()) {
+        // Si estamos en desktop, SIEMPRE ocultar el carrito móvil
+        elements.mobileCart.style.display = "none"
+        return
+    }
+
+    // ACTUALIZAR VALORES SIEMPRE (antes de decidir si mostrar u ocultar)
+    if (elements.cartBadge) {
+        elements.cartBadge.textContent = cotizacion.length
+    }
+
+    if (elements.cartItemsCount) {
+        elements.cartItemsCount.textContent = `${cotizacion.length} servicio${cotizacion.length !== 1 ? 's' : ''}`
+    }
+
+    if (elements.cartTotal) {
+        const total = cotizacion.reduce((sum, item) => sum + (item.precios.final - item.precios.totalDescuento) * item.cantidad, 0)
+        elements.cartTotal.textContent = `$${total.toLocaleString()}`
+    }
+
+    // DESPUÉS decidir si mostrar u ocultar
+    if (cotizacion.length === 0) {
+        console.log("Ocultando carrito móvil") // Debug
+        elements.mobileCart.style.display = "none"
+        return
+    }
+
+    // Mostrar el carrito en móvil si hay productos
+    console.log("Mostrando carrito móvil") // Debug
+    elements.mobileCart.style.display = "block"
+}
+
+// Actualizar cotización desktop
+function actualizarCotizacionDesktop(subtotal, totalDescuentos, total) {
+    if (!elements.emptyQuote || !elements.quoteItems) return
 
     // Actualizar contenido de cotización
     if (cotizacion.length === 0) {
@@ -432,60 +591,166 @@ function actualizarCotizacion() {
     } else {
         elements.emptyQuote.style.display = "none"
         elements.quoteItems.style.display = "block"
-
-        elements.quoteList.innerHTML = cotizacion
-            .map(
-                (item) => `
-            <div class="quote-item">
-                <div class="quote-item-header">
-                    <div class="quote-item-info">
-                        <div class="quote-item-name">${item.producto.Nombre}</div>
-                        <div class="quote-item-category">${item.categoria}</div>
+        
+        if (elements.quoteList) {
+            elements.quoteList.innerHTML = cotizacion
+                .map(
+                    (item) => `
+                <div class="quote-item">
+                    <div class="quote-item-header">
+                        <div class="quote-item-info">
+                            <div class="quote-item-name">${item.producto.Nombre}</div>
+                            <div class="quote-item-category">${item.categoria}</div>
+                        </div>
+                        <button class="remove-btn" onclick="removerDeCotizacion('${item.producto.Nombre}')">
+                            <i class="fas fa-times"></i>
+                        </button>
                     </div>
-                    <button class="remove-btn" onclick="removerDeCotizacion('${item.producto.Nombre}')">
+                    <div class="quote-item-pricing">
+                        <div class="quote-item-price">$${item.precios.final.toLocaleString()} c/u</div>
+                        <div class="quote-item-discount">-$${item.precios.totalDescuento.toLocaleString()} descuento</div>
+                    </div>
+                    <div class="quote-item-footer">
+                        <span>Cant: ${item.cantidad}</span>
+                        <span class="quote-item-subtotal">$${(item.precios.final * item.cantidad).toLocaleString()}</span>
+                    </div>
+                </div>
+            `,
+                )
+                .join("")
+
+            // Agregar efecto de entrada escalonado
+            setTimeout(() => {
+                document.querySelectorAll(".quote-item").forEach((item, index) => {
+                    item.style.animationDelay = `${index * 0.1}s`
+                })
+            }, 50)
+
+            // Mostrar resumen de totales
+            elements.quoteList.innerHTML += `
+                <div class="quote-summary">
+                    <div class="quote-summary-row">
+                        <span>Subtotal:</span>
+                        <span>$${subtotal.toLocaleString()}</span>
+                    </div>
+                    <div class="quote-summary-row discount">
+                        <span>Descuento total:</span>
+                        <span>-$${totalDescuentos.toLocaleString()}</span>
+                    </div>
+                    <div class="quote-summary-row total">
+                        <span>Total a pagar:</span>
+                        <span>$${total.toLocaleString()}</span>
+                    </div>
+                </div>
+            `
+        }
+        
+        if (elements.totalAmount) {
+            elements.totalAmount.textContent = `$${total.toLocaleString()}`
+        }
+    }
+}
+
+// Actualizar modal de cotización
+function actualizarModalCotizacion() {
+    if (!elements.modalEmptyState || !elements.modalQuoteItems) return
+
+    if (cotizacion.length === 0) {
+        elements.modalEmptyState.style.display = "block"
+        elements.modalQuoteItems.style.display = "none"
+        if (elements.modalActions) elements.modalActions.style.display = "none"
+        return
+    }
+
+    elements.modalEmptyState.style.display = "none"
+    elements.modalQuoteItems.style.display = "block"
+    if (elements.modalActions) elements.modalActions.style.display = "block"
+
+    if (elements.modalQuoteList) {
+        elements.modalQuoteList.innerHTML = cotizacion.map(item => `
+            <div class="modal-quote-item">
+                <div class="modal-quote-item-header">
+                    <div class="modal-quote-item-info">
+                        <div class="modal-quote-item-name">${item.producto.Nombre}</div>
+                        <div class="modal-quote-item-reference">${item.categoria}</div>
+                    </div>
+                    <button class="modal-remove-btn" onclick="removerDeCotizacion('${item.producto.Nombre}')">
                         <i class="fas fa-times"></i>
                     </button>
                 </div>
-                <div class="quote-item-pricing">
-                    <div class="quote-item-price">$${item.precios.final.toLocaleString()} c/u</div>
-                    <div class="quote-item-discount">-$${item.precios.totalDescuento.toLocaleString()} descuento</div>
-                </div>
-                <div class="quote-item-footer">
-                    <span>Cant: ${item.cantidad}</span>
-                    <span class="quote-item-subtotal">$${(item.precios.final * item.cantidad).toLocaleString()}</span>
-                </div>
-            </div>
-        `,
-            )
-            .join("")
-
-        // Agregar efecto de entrada escalonado
-        setTimeout(() => {
-            document.querySelectorAll(".quote-item").forEach((item, index) => {
-                item.style.animationDelay = `${index * 0.1}s`
-            })
-        }, 50)
-
-        // Mostrar resumen de totales
-        elements.quoteList.innerHTML += `
-            <div class="quote-summary">
-                <div class="quote-summary-row">
-                    <span>Subtotal:</span>
-                    <span>$${subtotal.toLocaleString()}</span>
-                </div>
-                <div class="quote-summary-row discount">
-                    <span>Descuento total:</span>
-                    <span>-$${totalDescuentos.toLocaleString()}</span>
-                </div>
-                <div class="quote-summary-row total">
-                    <span>Total a pagar:</span>
-                    <span>$${total.toLocaleString()}</span>
+                <div class="modal-quote-item-controls">
+                    <div class="modal-quantity-controls">
+                        <button class="modal-quantity-btn" onclick="actualizarCantidad('${item.producto.Nombre}', ${item.cantidad - 1})">
+                            <i class="fas fa-minus"></i>
+                        </button>
+                        <span class="modal-quantity-display">${item.cantidad}</span>
+                        <button class="modal-quantity-btn" onclick="actualizarCantidad('${item.producto.Nombre}', ${item.cantidad + 1})" 
+                                ${item.cantidad >= item.producto.Existencias ? 'disabled' : ''}>
+                            <i class="fas fa-plus"></i>
+                        </button>
+                    </div>
+                    <div class="modal-item-price">$${(item.precios.final * item.cantidad).toLocaleString()}</div>
                 </div>
             </div>
-        `
-
-        elements.totalAmount.textContent = `$${total.toLocaleString()}`
+        `).join('')
     }
+
+    // Calcular totales para el modal
+    const subtotal = cotizacion.reduce((sum, item) => sum + (item.precios.final * item.cantidad), 0)
+    const totalDescuentos = cotizacion.reduce((sum, item) => sum + (item.precios.totalDescuento * item.cantidad), 0)
+    const total = subtotal - totalDescuentos
+
+    if (elements.modalSubtotal) {
+        elements.modalSubtotal.textContent = `$${subtotal.toLocaleString()}`
+    }
+
+    if (elements.modalDiscount && elements.modalDiscountRow) {
+        if (totalDescuentos > 0) {
+            elements.modalDiscountRow.style.display = 'flex'
+            elements.modalDiscount.textContent = `-$${totalDescuentos.toLocaleString()}`
+        } else {
+            elements.modalDiscountRow.style.display = 'none'
+        }
+    }
+
+    if (elements.modalTotalAmount) {
+        elements.modalTotalAmount.textContent = `$${total.toLocaleString()}`
+    }
+}
+
+// Abrir modal
+function abrirModal() {
+    console.log("🔄 Abriendo modal...") // Debug
+    
+    if (!elements.modalOverlay) {
+        console.error("❌ No se puede abrir modal: modalOverlay no encontrado")
+        return
+    }
+    
+    if (cotizacion.length === 0) {
+        console.warn("⚠️ Intentando abrir modal con cotización vacía")
+    }
+    
+    actualizarModalCotizacion()
+    elements.modalOverlay.classList.add("active")
+    document.body.style.overflow = "hidden"
+    
+    console.log("✅ Modal abierto correctamente") // Debug
+}
+
+// Cerrar modal
+function cerrarModal() {
+    console.log("🔄 Cerrando modal...") // Debug
+    
+    if (!elements.modalOverlay) {
+        console.error("❌ No se puede cerrar modal: modalOverlay no encontrado")
+        return
+    }
+    
+    elements.modalOverlay.classList.remove("active")
+    document.body.style.overflow = ""
+    
+    console.log("✅ Modal cerrado correctamente") // Debug
 }
 
 // Toggle resumen
@@ -663,7 +928,7 @@ function enviarWhatsApp() {
     let totalFinal = 0
 
     const detallesProductos = cotizacion.map((item) => {
-        const precios = calcularPrecioFinal(item.producto["Precio Venta"],item.producto["Referencia"], item.producto["Nombre"])
+        const precios = calcularPrecioFinal(item.producto["Precio Venta"], item.producto["Referencia"], item.producto["Nombre"])
         const subtotalProducto = precios.final * item.cantidad
         const descuentoProducto = precios.totalDescuento * item.cantidad
 
@@ -690,7 +955,6 @@ ${detallesProductos
             .map((item) => {
                 const marca = extraerMarca(item.producto.Nombre)
                 const modelo = item.producto.Nombre.replace(marca, "").trim()
-
                 return `• ${item.categoria}
 ${modelo} (${marca})
 Cantidad: ${item.cantidad}
@@ -711,11 +975,8 @@ Descuento total: -$${totalDescuentos.toLocaleString()}
 
     const mensajeCodificado = encodeURIComponent(mensaje)
     const urlWhatsApp = `https://wa.me/${WHATSAPP_NUMBER}?text=${mensajeCodificado}`
-
     window.open(urlWhatsApp, "_blank")
 }
-
-
 
 // Descargar cotización
 function descargarCotizacion() {
@@ -723,8 +984,7 @@ function descargarCotizacion() {
     const totalDescuentos = cotizacion.reduce((sum, item) => sum + item.precios.totalDescuento * item.cantidad, 0)
     const total = subtotal - totalDescuentos
 
-    const contenido = `
-COTIZACIÓN DE REPARACIÓN - EQUIPOS MÓVILES
+    const contenido = `COTIZACIÓN DE REPARACIÓN - EQUIPOS MÓVILES
 ==========================================
 
 Fecha: ${new Date().toLocaleDateString()}

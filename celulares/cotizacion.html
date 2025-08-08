@@ -10,7 +10,6 @@
 </head>
 
 <body>
-    <!-- Header -->
     <header class="header">
         <div class="container">
             <div class="header-content">
@@ -33,9 +32,7 @@
     <main class="main">
         <div class="container">
             <div class="layout">
-                <!-- Panel principal -->
                 <div class="main-panel">
-                    <!-- Filtros -->
                     <div class="filters-card">
                         <div class="filters-content">
                             <div class="search-container">
@@ -48,13 +45,9 @@
                             </select>
                         </div>
                     </div>
-
-                    <!-- Categorías -->
                     <div class="categories-grid" id="categoriesGrid">
                         <!-- Las categorías se generarán dinámicamente -->
                     </div>
-
-                    <!-- Lista de refacciones -->
                     <div class="products-card">
                         <div class="products-header">
                             <h2 id="categoryTitle">Selecciona una categoría</h2>
@@ -70,9 +63,7 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Panel de cotización -->
-                <div class="quote-panel">
+                <div class="quote-panel desktop-only">
                     <div class="quote-card">
                         <div class="quote-header">
                             <h3>Cotización</h3>
@@ -117,8 +108,67 @@
             </div>
         </div>
     </main>
-
-    <!-- Loading -->
+    <div class="mobile-cart" id="mobileCart" style="display: none;">
+        <button class="mobile-cart-btn" id="mobileCartBtn">
+            <div class="cart-icon-container">
+                <i class="fas fa-shopping-cart"></i>
+                <span class="cart-badge" id="cartBadge">0</span>
+            </div>
+            <div class="cart-info">
+                <span class="cart-items-count" id="cartItemsCount">0 servicios</span>
+                <span class="cart-total" id="cartTotal">$0</span>
+            </div>
+        </button>
+    </div>
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal-container" id="modalContainer">
+            <div class="modal-header">
+                <h3>Mi Cotización</h3>
+                <button class="modal-close" id="modalClose" aria-label="Cerrar" title="Cerrar">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-content">
+                <div id="modalEmptyState" class="modal-empty-state">
+                    <i class="fas fa-shopping-cart empty-icon"></i>
+                    <p>Tu cotización está vacía</p>
+                </div>
+                <div id="modalQuoteItems" class="modal-quote-items" style="display: none;">
+                    <div id="modalQuoteList" class="modal-quote-list"></div>
+                    <div class="modal-quote-summary">
+                        <div class="summary-row">
+                            <span>Subtotal:</span>
+                            <span id="modalSubtotal">$0</span>
+                        </div>
+                        <div class="summary-row discount" id="modalDiscountRow" style="display: none;">
+                            <span>Descuento:</span>
+                            <span id="modalDiscount">-$0</span>
+                        </div>
+                        <div class="summary-row total">
+                            <span>Total:</span>
+                            <span id="modalTotalAmount">$0</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-actions" id="modalActions" style="display: none;">
+                <button id="modalWhatsappBtn" class="modal-action-btn primary">
+                    <i class="fab fa-whatsapp"></i>
+                    Agendar por WhatsApp
+                </button>
+                <div class="modal-secondary-actions">
+                    <button id="modalDownloadBtn" class="modal-action-btn secondary">
+                        <i class="fas fa-download"></i>
+                        Descargar
+                    </button>
+                    <button id="modalPrintBtn" class="modal-action-btn secondary">
+                        <i class="fas fa-print"></i>
+                        Imprimir
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
     <div id="loading" class="loading">
         <div class="loading-spinner"></div>
         <p>Cargando productos...</p>
